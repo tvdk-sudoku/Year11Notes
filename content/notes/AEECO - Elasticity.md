@@ -17,7 +17,12 @@ The quantity demanded of the product is relatively unresponsive to changes in pr
 
 #### Special Situations
 **Perfectly elastic**
+- $Ed = \infty$ 
+	- So if price changes, quantity demanded falls to zero
 
+**Perfectly inelastic**
+- $Ed = 0$
+	- Quantity demanded remains the same regardless of price
 
 
 
