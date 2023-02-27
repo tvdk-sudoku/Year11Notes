@@ -29,9 +29,10 @@ The quantity demanded of the product is relatively unresponsive to changes in pr
 	- Changes in price equals the change in demand
 
 
-
-
-
+### Measuring Elasticity
+#### Midpoint Method
+$Ed = \frac{\frac{Q_1-Q_2}{\frac{Q_2+Q_1}{2}}}{}$
+$Ed = \frac{\Delta Q}{Q_{Avg}} * \frac{P_{Avg}}{\Delta P}$
 
 
 
