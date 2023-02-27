@@ -24,6 +24,20 @@ The quantity demanded of the product is relatively unresponsive to changes in pr
 - $Ed = 0$
 	- Quantity demanded remains the same regardless of price
 
+**Unitary elastic**
+- $Ed = 1$
+	- Changes in price equals the change in demand
+
+
+
+
+
+
+
+
+
+
+
 
 
 
