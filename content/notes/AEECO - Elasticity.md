@@ -31,7 +31,8 @@ The quantity demanded of the product is relatively unresponsive to changes in pr
 
 ### Measuring Elasticity
 #### Midpoint Method
-$Ed = \frac{\frac{Q_1-Q_2}{\frac{Q_2+Q_1}{2}}}{}$
+$Ed = \frac{(Q_{2} - Q_1)/[(Q_2 + Q_1)/2]}{(P_{2} - P_{1})/[(P_{2 +}P_1)/2]}$
+
 $Ed = \frac{\Delta Q}{Q_{Avg}} * \frac{P_{Avg}}{\Delta P}$
 
 
