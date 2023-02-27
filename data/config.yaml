@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: MQ-9 Reaper
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/grim4reaper/Year11Notes/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -21,9 +21,7 @@ description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.3"
+  "Notes v3"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/grim4reaper123
