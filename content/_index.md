@@ -19,7 +19,15 @@ enableToc: false
 [[AEECO - Chapter 2]]
 
 #### Notes
-[[AEECO]]
+[[AEECO - Intro - NEED TO FORMAT]]
+[[AEECO - Demand and Supply]]
+[[AEECO - Elasticity]] - In progress
+
+
+### Computer Science
+
+
+
 
 
 
