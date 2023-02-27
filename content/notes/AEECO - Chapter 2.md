@@ -81,3 +81,8 @@ title: Chapter 2
 - We can observe **indeterminate** values for the simultaneous shifts; these depend on the **magnitude of the shift**
 - Could increase, decrease, or stay the same
 
+
+
+
+
+
