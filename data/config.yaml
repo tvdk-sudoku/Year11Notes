@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/grim4reaper/Year11Notes/tree/hugo/content
