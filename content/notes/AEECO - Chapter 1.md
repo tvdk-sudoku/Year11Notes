@@ -13,7 +13,7 @@ title: Chapter 1
 
 - The BEP is a problem of both [[#Scarcity]] and choice
 
-- To formalise, 'Economics is the study of how people allocate their limited resources to satisfy their unlimited wans - the study of the economic problem, which is one of scarcity and choice.' #testanswer
+- To formalise, 'Economics is the study of how people allocate their limited resources to satisfy their unlimited wans - the study of the economic problem, which is one of scarcity and choice.'
 
 - To **solve the BEP**, three basic questions should be answered;
 
@@ -43,11 +43,9 @@ title: Chapter 1
 
 - Because of scarcity - because of the limited resources, **we must choose between one option or the other**
 
-- For example, I have the limited amount of $15 - do i
-
-- a) Go to the movies or  
-
-- b) Go to a restaurant?
+- For example, I have the limited amount of $15 - do I
+	a) Go to the movies or
+	b) Go to a restaurant?
 
 - Making choices when confronted by scarcity involves a  **trade-off**
 
@@ -64,8 +62,6 @@ title: Chapter 1
 - The **PPF** is one of many [[#Economic Models]] which describes opportunity cost
 
 - The PPF can also illustrate economic growth through shifts right and left
-
-- For more, visit [[Economics/1. Introduction/Powerpoint]]
 
 #### Types of Resources
 

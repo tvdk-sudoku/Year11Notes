@@ -27,7 +27,7 @@ title: Chapter 2
 - Product differentiation
 - Firms being price setters
 - Restricted entry into market
-- An **extreme imperfect market** is a monopoly market, where the market is centered around one fir,.
+- An **extreme imperfect market** is a monopoly market, where the market is centred around one firm.
 - An oligopoly is a market with a few dominant firms
 
 #### Demand Side
@@ -59,7 +59,7 @@ title: Chapter 2
 - If **the price is below the equilibrium**, there will be a **shortage**, and a **surplus** above.
 
 ###### Shifts
-- When there are shifts in either curve, the equilbrium will change. In order for there not to be a surplus or shortage, the price will naturally increase or decrease by
+- When there are shifts in either curve, the equilibrium will change. In order for there not to be a surplus or shortage, the price will naturally increase or decrease by
 - **Suppliers selling excess stock** at a **lower price**
 - **Customers bidding up the price** due to lack of supply
 - In the time this takes to happen, there will be a temporary shortage or surplus
