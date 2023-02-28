@@ -11,7 +11,7 @@ Welcome to my notes. They are very unfinished as I am in the process of moving a
 
 
 ### Economics
-[[notes/Economics|Economics]]
+[[content/notes/Economics|Economics]]
 
 
 ### Computer Science
