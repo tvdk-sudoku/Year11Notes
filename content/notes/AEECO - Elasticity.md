@@ -54,14 +54,29 @@ When price decreases
 - Price inelastic product: Total revenue would decrease
 - Unit elastic: No change in total revenue
 
-
+### Tax
 Depending on the elasticity, tax revenue and the burden of the tax would vary.
 Tax incidence/burden of the tax: Who bears the majority of the tax
 - If a good is price inelastic in demand, the amount of tax revenue is higher and the burden of the tax falls more on the consumers
 - If a good is price elastic in demand, the amount of tax revenue is lower and the burden of the tax falls more on the producers
 
+
+#### Elastic
 **Tax** $= P_{2} - P_3$
 **Tax revenue** $= Q_2(P_{2} - P_{1})$
+
+Producer burden > Consumer burden
+
+#### Inelastic
+**Tax** $= P_{2} - P_3$
+**Tax revenue** $= Q_2(P_{2} - P_{1})$
+
+Consumer burden ($P_{2} - P_{1}$) > Producer burden ($P_{1} - P_{3}$)
+
+##### Example Explanation
+
+
+
 
 
 
