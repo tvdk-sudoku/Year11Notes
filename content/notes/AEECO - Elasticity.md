@@ -41,9 +41,30 @@ $Ed = |\frac{\Delta Q}{Q_{}} * \frac{P_{}}{\Delta P}|$
 
 ### Revenue
 TR = P * Q
+| Elasticity | Price      | Revenue      |
+| ---------- | ---------- | ------------ |
+| Elastic    | $\uparrow$ | $\downarrow$ |
+| Inelastic  | $\uparrow$ | $\uparrow$ |
 
----
-| Price $\uparrow$ | Revenue
+Total revenue = Price * Quantity
+- Effect of changes in price on total revenue is dependent on the price elasticity of the product
+
+When price decreases
+- Price elastic product: Total revenue would increase
+- Price inelastic product: Total revenue would decrease
+- Unit elastic: No change in total revenue
+
+
+Depending on the elasticity, tax revenue and the burden of the tax would vary.
+Tax incidence/burden of the tax: Who bears the majority of the tax
+- If a good is price inelastic in demand, the amount of tax revenue is higher and the burden of the tax falls more on the consumers
+- If a good is price elastic in demand, the amount of tax revenue is lower and the burden of the tax falls more on the producers
+
+
+
+
+
+
 
 
 
