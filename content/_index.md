@@ -11,13 +11,13 @@ Welcome to my notes. They are very unfinished as I am in the process of moving a
 
 
 ### Economics
-[[Economics]]
+[[notes/Economics|Economics]]
 
 
 ### Computer Science
 - In progress
 
-[[Computer Science]]
+[[notes/Computer Science|Computer Science]]
 
 
 
