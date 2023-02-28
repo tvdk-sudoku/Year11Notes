@@ -60,8 +60,8 @@ Tax incidence/burden of the tax: Who bears the majority of the tax
 - If a good is price inelastic in demand, the amount of tax revenue is higher and the burden of the tax falls more on the consumers
 - If a good is price elastic in demand, the amount of tax revenue is lower and the burden of the tax falls more on the producers
 
-
-
+**Tax** $= P_{2} - P_3$
+**Tax revenue** $= Q_2(P_{2} - P_{1})$
 
 
 
