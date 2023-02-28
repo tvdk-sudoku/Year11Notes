@@ -14,8 +14,9 @@
             {{- range $data.links | default $.Site.Data.config.links -}}
             <li><a href="{{.link}}">{{.link_name}}</a></li>
             {{- end -}}
+		 <br>
 		 {{- range $data.emails | default $.Site.Data.config.emails -}}
-            <li><a href="{{.email}}">{{.email_name}}</a></li>
+            <li><a href="mailto:{{.email}}">{{.email_name}}</a></li>
             {{- end -}}
         </ul>
     </footer>
