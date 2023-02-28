@@ -73,8 +73,9 @@ Producer burden > Consumer burden
 
 Consumer burden ($P_{2} - P_{1}$) > Producer burden ($P_{1} - P_{3}$)
 
-##### Example Explanation
-
+##### Example Explanation (Inelastic)
+Original price point stuff.
+Indirect tax will shift the supply curve to the left, the amount of tax. The tax increases price to $P_2$, and increases the price consumers now pay. Producers are now receiving $P_3$. Quantity has fallen to $Q_2$. The tax revenue is $Q_2(P_{2} - P_{3})$. The consumers bears a higher burden of the tax compared to the producers. 
 
 
 
