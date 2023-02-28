@@ -1,11 +1,6 @@
 ---
 title: Demand and Supply
 ---
-### Index
-[[AEECO - Demand and Supply#Demand|Demand]]
-[[AEECO - Demand and Supply#Supply|Supply]]
-[[AEECO - Demand and Supply#Demand and Supply|Demand and Supply]]
-
 # Demand
 -   The quantity of a good or service that consumers are willing and able to buy at each price in a particular point in time.
 
