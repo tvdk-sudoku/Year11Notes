@@ -2,6 +2,7 @@
 title: Economics
 ---
 ### Chapter Summaries
+- These are 
 - [[notes/AEECO - Chapter 1|Chapter 1]]
 - [[notes/AEECO - Chapter 2|Chapter 2]]
 
