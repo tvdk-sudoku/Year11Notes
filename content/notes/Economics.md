@@ -6,7 +6,7 @@ title: Economics
 - [[notes/AEECO - Chapter 2|Chapter 2]]
 
 ### Notes
-- [[notes/AEECO - Intro - NEED TO FORMAT|Intro]]
+- [[AEECO - Intro|Intro]]
 - [[notes/AEECO - Demand and Supply|Demand and Supply]]
 - [[notes/AEECO - Elasticity|Elasticity]] - In progress
 
