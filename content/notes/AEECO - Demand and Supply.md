@@ -76,14 +76,14 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 - Improvement in technology can reduce production cost, allowing suppliers to produce more at a lower cost
 - Increase in supply is shown as a rightward shift of the supply curve
 
-#### Prices of other goods
+### Prices of other goods
 - If the price of a related good increases, the supplier can shift production to increase the quantity supplied of the related good
 
-#### Input prices (Production costs)
+### Input prices (Production costs)
 - If input prices go down, supply can increase
 - If input prices go up, supply decreases
 
-#### Government regulation
+### Government regulation
 - Government regulations influence the number of suppliers in the market, which increases or decreases market supply
 - Government regulations can take the form of taxes, tariffs, subsidies and quotas
 
