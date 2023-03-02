@@ -88,7 +88,7 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 
 #### Proportion  of income spent
 - The greater proportion of income, the more elastic
-- Cheaper goods are less elastic
+- Cheaper goods are less elastic than expensive goods
 
 #### Time period considered
 - 
