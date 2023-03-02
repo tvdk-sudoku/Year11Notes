@@ -2,7 +2,7 @@
 title: Economics
 ---
 ### Chapter Summaries
-- These are yt
+- These are 
 - [[notes/AEECO - Chapter 1|Chapter 1]]
 - [[notes/AEECO - Chapter 2|Chapter 2]]
 
