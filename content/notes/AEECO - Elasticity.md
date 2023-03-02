@@ -96,7 +96,7 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 - As time goes on, goods become more elastic
 
 #### The definition of the market
-- 
+- Narrower the market, the more responsive (Elastic)
 
 
 
