@@ -80,7 +80,8 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 
 ### Factors Affecting PED
 #### The availability of substitutes
-- If there are lots of substitutes 
+- If there are lots of substitutes - more elastic
+- If there are no substitutes - less elastic (Inelastic)
 
 #### Whether the good is a necessity or a luxury
 - If a good is a necessity - Inelastic
