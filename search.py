@@ -1,1 +1,12 @@
-#!/usr/bin/env wolframscript
+import os
+
+a = os.listdir()
+
+
+print(a)
+
+
+
+
+
+
