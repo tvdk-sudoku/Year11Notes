@@ -92,7 +92,8 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 - Cheaper goods are less elastic than expensive goods
 
 #### Time period considered
-- 
+- The longer consumers to have to respond to changes, the more elastic
+- As time goes on, goods become more elastic
 
 #### The definition of the market
 - 
