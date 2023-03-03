@@ -4,7 +4,7 @@ title: Elasticty
 ## Price Elasticity of demand
 - Price elasticity measures the responsiveness of quantity demanded to changes in price
 - Price elasticity of demand (Ed) can be calculated by Percentage Change
-- Ed = \frac{% change in quantity demanded}{% percentage change in price}
+- Ed = $$\frac{% change in quantity demanded}{% percentage change in price}$$
 
 ### Price Elastic Goods
 The quantity demanded of the product is relatively responsive to changes in price.
