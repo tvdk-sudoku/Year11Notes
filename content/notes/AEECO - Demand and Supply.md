@@ -5,9 +5,9 @@ title: Demand and Supply
 -   The quantity of a good or service that consumers are willing and able to buy at each price in a particular point in time.
 
 ## Law of demand
--   Inverse relationship between the price of a product and the quantity of the product demanded due to:
--   **Substitution** effect - When a product becomes more expensive, consumers substitute to a cheaper good.
--   **Income effect** - When a product becomes more expensive, it takes up a larger portion of income and then spends less.
+- Inverse relationship between the price of a product and the quantity of the product demanded due to:
+- **Substitution** effect - When a product becomes more expensive, consumers substitute to a cheaper good.
+- **Income effect** - When a product becomes more expensive, it takes up a larger portion of income and then spends less.
 
 A market demand curve is obtained from the horizontal summation of individual demand curves.
 
