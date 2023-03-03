@@ -92,7 +92,7 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 # Demand and Supply
 
 ### Equilibrium
--`The state of the market where there is no tendency for either demand or supply to change`
+> The state of the market where there is no tendency for either demand or supply to change
 
 **Equilibrium price** is the price that clears the market, where the quantity demanded equals the quantity supplied.
 
@@ -100,7 +100,7 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 - The process by which the forces of demand and supply interact to determine the price of a good or service
 
 #### Invisible Hand
-	-Aka Price Mechanism
+> Aka Price Mechanism
 
 ### Shortage
 - When the quantity demanded exceeds the quantity supplied.
