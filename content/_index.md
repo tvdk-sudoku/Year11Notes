@@ -9,7 +9,7 @@ If something isn't working, raise the issue on the github repository and blame E
 
 
 > MacE is a bit of a delinquent.
-	- MacE, 2023
+> - MacE, 2023
 
 
 
