@@ -101,7 +101,7 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 
 
 
-
+b
 
 
 
