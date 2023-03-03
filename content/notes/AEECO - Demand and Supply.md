@@ -125,11 +125,11 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 
 
 ### One Way Shifts
-Decrease in demand:
+##### Decrease in demand:
 > There is an increase in price of complementary goods causing a decrease in demand, shifting the demand curve to the left from D to D1. At the original price point, Quantity supplied, $Q_e$, exceeds Quantity demanded, $Q_2$. There is a temporary surplus from $Q_e$ to $Q_2$. Firms decrease the price to get rid of excess stock leading to a contraction along the supply curve, causing an expansion along the D curve. The temporary surplus is cleared and the new equilibrium point is at a lower price point, P3 and at a higher quantity, $Q_3$.
 
 ### Two Way Shifts
-Decrease in supply, increase in demand:
+##### Decrease in supply, increase in demand:
 > There is a non-price factor that is causing an increase in demand, shifting the demand curve to the right from $D$ to $D_1$ and a non-price factor causing a decrease in supply, shifting the supply curve to the left, from $S_1$ to $S_2$. At the original price point, quantity demanded, $Q_3$, exceeds quantity supplied, $Q_2$. There is a temporary shortage from $Q_2$ to $Q_3$. Consumers bid up the price leading to contraction along the demand curve, leading to an expansion along the supply curve. The temporary shortage is cleared and the new equilibrium point is at a higher price point, $P_2$, and at an indeterminate quantity, $Q_1$.
 
 
