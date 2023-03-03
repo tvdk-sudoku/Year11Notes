@@ -56,7 +56,7 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 - The curve obtained from the horizontal summation of individual supply curves
 
 ### Movement
-	- A movement along the existing supply curve
+> A movement along the existing supply curve
 - Due to changes in the *price* of the good
 - *Expansion* in Supply: *Increase* in price
 - *Contraction* of Supply: *Decrease* in price
