@@ -62,7 +62,7 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 - *Contraction* of Supply: *Decrease* in price
 
 ### Shift:
-	- The quantity suppied of the good changes at every price
+> The quantity supplied of the good changes at every price
 - Due to a change in *non-price* factors
 - *Rightward* shift: *Increase* in supply
 - *Leftward* shift: *Decrease* in supply
