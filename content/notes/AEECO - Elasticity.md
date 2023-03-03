@@ -99,7 +99,12 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 - Narrower the market, the more responsive (Elastic)
 
 
-<html>
+
+
+
+
+
+
 
 
 
