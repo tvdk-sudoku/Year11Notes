@@ -87,7 +87,7 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 - If a good is a necessity - Inelastic
 - If a good is a luxury - Elastic
 
-#### Proportion  of income spent
+#### Proportion of income spent
 - The greater proportion of income, the more elastic
 - Cheaper goods are less elastic than expensive goods
 
