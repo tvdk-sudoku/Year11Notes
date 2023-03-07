@@ -103,9 +103,14 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 # Price Elasticity of Supply
 > Measures the responsiveness of quantity supplied to a change in price
 
-$$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% change \space in \space price}$$
+$$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \space change \space in \space price}$$
 
-
+---
+| Elasticity | Elasticity Co-efficient | Interpretation |
+| ---------- | ----------------------- | -------------- |
+|            | E > 1                   |                |
+|            | E < 1                   |                |
+|            |                         |                |
 
 
 
