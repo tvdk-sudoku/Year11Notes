@@ -133,9 +133,15 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 # Significance of Price Elasticity
 ### Firms
 - Monopoly/Market power:
-	- Setting prices (to influence tot)
+	- Setting prices (to influence total revenue)
+	- Price discrimination
 
+### Households
+- Can control demand if aware of elasticity and influence on prices
 
+### Government
+- Tax incidence
+	- IE - Greate
 
 
 
