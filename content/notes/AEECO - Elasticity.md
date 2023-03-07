@@ -121,7 +121,8 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 - After some time, people are able to react to the price changes (Elastic)
 
 #### Nature of the Industry
-- A market of pencils can 
+- If you can easily change products (pencils), it is elastic
+- If you can't easily change products (agriculture), it is inelastic
 
 #### Ability to Store Inventories
 
