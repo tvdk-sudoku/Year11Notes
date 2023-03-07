@@ -115,9 +115,14 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 | Perfectly Elastic   | E = $\infty$            | Change in price results in no change in supply    |
 
 
+### Factors Affecting PES
+#### Time
 
 
+#### Nature of the Industry
 
+
+###
 
 
 
