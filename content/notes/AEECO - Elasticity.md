@@ -141,7 +141,8 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 
 ### Government
 - Tax incidence
-	- IE - Greate
+	- IE - Greater incidence on consumers, greater tax revenue
+	- E - Lesser incidence on consumers, lower tax revenue
 
 
 
