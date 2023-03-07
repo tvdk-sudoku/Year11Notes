@@ -100,7 +100,7 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 - Narrower the market, the more responsive (Elastic)
 
 
-# Price Elasticity of Supply
+## Price Elasticity of Supply
 > Measures the responsiveness of quantity supplied to a change in price
 
 $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \space change \space in \space price}$$
@@ -125,8 +125,8 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 - If you can't easily change products (agriculture), it is inelastic
 
 #### Ability to Store Inventories
-- If a business is easily store inventories (canned food), they can respond quicker (Elastic)
-- If a business is 
+- If a business can easily store inventories (canned food), they can respond quicker (Elastic)
+- If a business can't easily store inventories (fruit and veg), they can't respond as quick (Inelastic) 
 
 
 
