@@ -108,9 +108,12 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 ---
 | Elasticity | Elasticity Co-efficient | Interpretation |
 | ---------- | ----------------------- | -------------- |
-|            | E > 1                   |                |
+|           | E > 1                   |                |
 |            | E < 1                   |                |
-|            |                         |                |
+|            | E = 1                   |                |
+|            | E = 0                   |                |
+|            | E = $\infty$            |                |
+
 
 
 
