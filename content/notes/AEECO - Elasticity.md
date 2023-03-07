@@ -108,8 +108,8 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 ---
 | Elasticity          | Elasticity Co-efficient | Interpretation |
 | ------------------- | ----------------------- | -------------- |
-| Price Elastic       | E > 1                   | Change in supply is greater that change in demand.               |
-| Price Inelastic     | E < 1                   |                |
+| Price Elastic       | E > 1                   | Change in supply is greater that change in price.               |
+| Price Inelastic     | E < 1                   | Change in supply is less th               |
 | Unitary             | E = 1                   |                |
 | Perfectly Elastic   | E = 0                   |                |
 | Perfectly Inelastic | E = $\infty$            |                |
