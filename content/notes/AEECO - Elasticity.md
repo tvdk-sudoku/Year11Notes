@@ -1,7 +1,8 @@
 ---
 title: Elasticty
 ---
-# Price Elasticity of demand
+# Price Elasticity
+## Price Elasticity of demand
 - Price elasticity measures the responsiveness of quantity demanded to changes in price
 - Price elasticity of demand (Ed) can be calculated by Percentage Change
 - $$Ed = \frac{\% change \space in \space quantity \space demanded}{\%  \space change \space in \space price}$$
@@ -129,7 +130,10 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 - If a business can't easily store inventories (fruit and veg), they can't respond as quick (Inelastic) 
 
 
-
+# Significance of Price Elasticity
+### Firms
+- Monopoly/Market power:
+	- Setting prices (to influence tot)
 
 
 
