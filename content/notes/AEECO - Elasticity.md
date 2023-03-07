@@ -101,7 +101,9 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 
 
 # Price Elasticity of Supply
+> Measures the responsiveness of quantity supplied to a change in price
 
+$$E$$
 
 
 
