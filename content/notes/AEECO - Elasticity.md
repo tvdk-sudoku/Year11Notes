@@ -106,13 +106,13 @@ Indirect tax will shift the supply curve to the left, the amount of tax. The tax
 $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \space change \space in \space price}$$
 
 ---
-| Elasticity          | Elasticity Co-efficient | Interpretation |
-| ------------------- | ----------------------- | -------------- |
-| Price Elastic       | E > 1                   | Change in supply is greater that change in price.               |
-| Price Inelastic     | E < 1                   | Change in supply is less th               |
-| Unitary             | E = 1                   |                |
-| Perfectly Elastic   | E = 0                   |                |
-| Perfectly Inelastic | E = $\infty$            |                |
+| Elasticity          | Elasticity Co-efficient | Interpretation                                    |
+| ------------------- | ----------------------- | ------------------------------------------------- |
+| Price Elastic       | E > 1                   | Change in supply is greater than change in price. |
+| Price Inelastic     | E < 1                   | Change in supply is less than change in price     |
+| Unitary             | E = 1                   | Change in supply is qua                                                  |
+| Perfectly Elastic   | E = 0                   |                                                   |
+| Perfectly Inelastic | E = $\infty$            |                                                   |
 
 
 
