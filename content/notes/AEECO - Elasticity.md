@@ -118,7 +118,7 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 ### Factors Affecting PES
 #### Time
 - In the short term, goods are going to be unresponsive (Inelastic)
-- After some time, people are able to react to the price changes (Elas)
+- After some time, people are able to react to the price changes (Elastic)
 
 #### Nature of the Industry
 
