@@ -125,7 +125,8 @@ $$Es = \frac{\% \space change \space in \space quantity \space supplied}{\% \spa
 - If you can't easily change products (agriculture), it is inelastic
 
 #### Ability to Store Inventories
-
+- If a business is easily store inventories (canned food), they can respond quicker (Elastic)
+- If a business is 
 
 
 
