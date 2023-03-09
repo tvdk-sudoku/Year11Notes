@@ -105,7 +105,7 @@ At higher prices, suppliers are willing to produce more as it means that they ca
 ### Shortage
 - When the quantity demanded exceeds the quantity supplied.
 - Consumers bid among themselves for the limited goods so the price of the good increase.
-- **$Q_d > Q_s$**
+- **$Q_d > Q_s$
 
 ### Surplus
 - When the quantity supplied exceeds the quantity demanded
