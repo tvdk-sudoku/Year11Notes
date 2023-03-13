@@ -9,7 +9,8 @@ title: Economics
 ### Notes
 - [[AEECO - Intro|Intro]]
 - [[notes/AEECO - Demand and Supply|Demand and Supply]]
-- [[notes/AEECO - Elasticity|Elasticity]] - In progress
+- [[notes/AEECO - Elasticity|Elasticity]]
+- [[notes/AEECO - Market Efficiency|Market Efficiency]]- In progress
 
 
 
