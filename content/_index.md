@@ -8,7 +8,7 @@ Welcome to my notes. They are very unfinished as I am in the process of moving a
 If something isn't working, raise the issue on the github repository and blame Edward (@EddieTheEd [EddieTheEd](https://github.com/EddieTheEd)). He has refused to help fix any bugs in a helpful way even though he was the one who made me swap to quartz. He also slanders me on his website, which you should not visit (his website is also a virus).
 
 
-> MacE is a bit of a delinquent.
+> Ed is a bit of a delinquent.
 > - MacE, 2023
 
 
