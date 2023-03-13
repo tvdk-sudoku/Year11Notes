@@ -20,7 +20,8 @@ Total surplus = CS + PS
 
 It is a measure of the net benefits to society from the production consumption of the good.
 
-
+#### Deadweight Loss
+Loss in total surplus that is avoidable
 
 
 
