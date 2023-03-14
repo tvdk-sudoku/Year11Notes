@@ -38,7 +38,11 @@ Loss in total surplus that is avoidable.
 ### Price Floor
 > Is the minimum price that a producer can charge on a good
 
-- It is usually above 
+- It is usually above the equilibrium price
+- Designed to ensure that there is a minimum income received by producers
+
+#### Impacts
+- Informal illegal markets could
 
 
 
