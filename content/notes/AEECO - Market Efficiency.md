@@ -57,6 +57,7 @@ Loss in total surplus that is avoidable.
 The original
 
 ## Taxes
+### Direct Taxes
 
 
 
