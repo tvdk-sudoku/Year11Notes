@@ -35,9 +35,6 @@ Loss in total surplus that is avoidable.
 - Need for rationing process to regulate demand
 - Could lead to black markets
 
-#### Explanation
-TBC
-
 
 ### Price Floor
 > Is the minimum price that a producer can charge on a good
@@ -48,11 +45,14 @@ TBC
 #### Impacts
 - Informal illegal markets could result
 
-#### Explanation
+### Explanation
 1. Original price and quantity
 2. Implement price floor (say above or below equilibrium)
 3. New price and quantity
-4. Quantity demanded, 
+4. Quantity demanded/supplied comparison - Shortage/Surplus
+5. Consumer, producer surplus + dead weight loss (use letters, )
+
+
 
 
 
