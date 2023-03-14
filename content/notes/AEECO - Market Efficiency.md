@@ -47,11 +47,13 @@ Loss in total surplus that is avoidable.
 
 ### Explanation
 1. Original price and quantity
-2. Implement price floor (say above or below equilibrium)
+2. Implement price floor/ceiling (say above or below equilibrium)
 3. New price and quantity
 4. Quantity demanded/supplied comparison - Shortage/Surplus
-5. Consumer, producer surplus + dead weight loss (use letters, )
+5. Consumer, producer surplus + dead weight loss (use letters, A, B, C, etc)
+6. Loss in efficiency
 
+#### Price Ceiling Explanation
 
 
 
