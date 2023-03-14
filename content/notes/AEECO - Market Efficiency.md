@@ -57,17 +57,21 @@ Loss in total surplus that is avoidable.
 The original
 
 ## Taxes
-### Direct Tax
+#### Direct Tax
 - E.g. Income tax
 
 
-### Indirect Tax
+#### Indirect Tax
 - Consumers do not pay the tax directly, but are affected through changes in the price of the good or service
 
+Specific tax:
+- The tax is a fixed amount or is a set sum of money per unit
+Something else
 
 
-
-
+### Why?
+- Can aid in the redistribution of income
+- To co
 
 
 
