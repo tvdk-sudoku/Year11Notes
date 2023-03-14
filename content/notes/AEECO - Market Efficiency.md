@@ -42,7 +42,9 @@ Loss in total surplus that is avoidable.
 - Designed to ensure that there is a minimum income received by producers
 
 #### Impacts
-- Informal illegal markets could
+- Informal illegal markets could result
+
+
 
 
 
