@@ -31,6 +31,9 @@ Loss in total surplus that is avoidable.
 - It is usually below the equilibrium price
 - Intended to keep prices affordable for majority of the population
 
+#### Impacts
+- Need for rationing process to regulate demand
+- could lead to black 
 
 
 
