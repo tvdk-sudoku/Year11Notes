@@ -26,7 +26,10 @@ Loss in total surplus that is avoidable.
 
 ## Efficiency
 ### Price Ceiling
-> Is the highest price that a pr
+> Is the highest price that a producer can charge on a good.
+
+- It is usually below the equilibrium price
+- Intended to keep prices affordable for majority of the population
 
 
 
