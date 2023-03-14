@@ -50,7 +50,9 @@ TBC
 
 #### Explanation
 1. Original price and quantity
-2. Implement price floor
+2. Implement price floor (say above or below equilibrium)
+3. New price and quantity
+4. Quantity demanded, 
 
 
 
