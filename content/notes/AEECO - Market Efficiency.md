@@ -24,7 +24,9 @@ It is a measure of the net benefits to society from the production consumption o
 Loss in total surplus that is avoidable.
 
 
-
+## Efficiency
+### Price Ceiling
+> Is the highest price that a pr
 
 
 
