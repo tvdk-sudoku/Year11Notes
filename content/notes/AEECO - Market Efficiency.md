@@ -35,6 +35,10 @@ Loss in total surplus that is avoidable.
 - Need for rationing process to regulate demand
 - Could lead to black markets
 
+#### Explanation
+TBC
+
+
 ### Price Floor
 > Is the minimum price that a producer can charge on a good
 
@@ -44,6 +48,8 @@ Loss in total surplus that is avoidable.
 #### Impacts
 - Informal illegal markets could result
 
+#### Explanation
+1. Ori
 
 
 
