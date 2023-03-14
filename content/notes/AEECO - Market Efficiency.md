@@ -81,7 +81,14 @@ Something else
 - Creates a dead weight loss
 
 ### Explanation
-1. Original Q/
+1. Original P/Qty
+2. Implement gov policy
+3. New Price/Quantity
+4. Tax revenue
+5. CS, PS, TS, DWL
+6. Conclusion on efficiency
+
+
 
 
 
