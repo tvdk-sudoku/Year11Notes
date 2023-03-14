@@ -80,6 +80,8 @@ Something else
 - Tax incidence depends on the elasticity of the good/service
 - Creates a dead weight loss
 
+### Explanation
+1. Original Q/
 
 
 
