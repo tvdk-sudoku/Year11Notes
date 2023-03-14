@@ -74,6 +74,11 @@ Something else
 - To correct externalities
 - To earn revenue
 
+### Impacts
+- Reduces quantity while increasing price
+- Tax incidence depends on the elasticity of the good/service
+- Creates a dead weight loss
+
 
 
 
