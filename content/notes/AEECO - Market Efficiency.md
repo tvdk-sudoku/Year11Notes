@@ -57,7 +57,12 @@ Loss in total surplus that is avoidable.
 The original
 
 ## Taxes
-### Direct Taxes
+### Direct Tax
+- E.g. Income tax
+
+
+### Indirect Tax
+- Consumers do not pay the tax directly, but are affected through changes in the price of the good or service
 
 
 
