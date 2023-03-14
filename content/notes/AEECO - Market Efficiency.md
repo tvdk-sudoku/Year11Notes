@@ -54,7 +54,10 @@ Loss in total surplus that is avoidable.
 6. Loss in efficiency
 
 #### Price Ceiling Explanation
-The
+The original
+
+## Taxes
+
 
 
 
