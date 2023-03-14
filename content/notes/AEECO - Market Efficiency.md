@@ -57,6 +57,7 @@ Loss in total surplus that is avoidable.
 The original
 
 ## Taxes
+### Types of Tax
 #### Direct Tax
 - E.g. Income tax
 
@@ -78,6 +79,10 @@ Something else
 - Reduces quantity while increasing price
 - Tax incidence depends on the elasticity of the good/service
 - Creates a dead weight loss
+
+
+
+
 
 
 
