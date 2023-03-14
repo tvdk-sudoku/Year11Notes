@@ -71,7 +71,10 @@ Something else
 
 ### Why?
 - Can aid in the redistribution of income
-- To co
+- To correct externalities
+- To earn revenue
+
+
 
 
 
