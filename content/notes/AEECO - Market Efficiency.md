@@ -33,7 +33,11 @@ Loss in total surplus that is avoidable.
 
 #### Impacts
 - Need for rationing process to regulate demand
-- could lead to black 
+- Could lead to black markets
+
+
+
+
 
 
 
