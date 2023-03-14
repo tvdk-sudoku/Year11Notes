@@ -49,7 +49,8 @@ TBC
 - Informal illegal markets could result
 
 #### Explanation
-1. Ori
+1. Original price and quantity
+2. Implement price floor
 
 
 
