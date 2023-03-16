@@ -9,7 +9,7 @@ title: "AEECO - Chapter 4"
 > Difference between what a consumer is prepared to pay and what they actually pay in the market.
 > 
 ##### Marginal cost
-> The extra opportunity cost of consum
+> The extra opportunity cost of buying one more unit of a good or service
 
 
 #### Producer Surplus
