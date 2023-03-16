@@ -7,6 +7,7 @@ title: Economics
 - [[notes/AEECO - Chapter 2|Chapter 2]]
 - [[notes/AEECO - Chapter 4|Chapter 4]]
 
+(Don't ask about chapter 3, it never happened.)
 
 
 ### Notes
