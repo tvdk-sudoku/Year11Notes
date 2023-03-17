@@ -8,7 +8,7 @@ Welcome to my notes. They are very unfinished as I am in the process of moving a
 If something isn't working, raise the issue on the github repository and blame Edward (@EddieTheEd [EddieTheEd](https://github.com/EddieTheEd)). He slanders me on his website, which you should not visit (his website is also a virus). He also unjustly accuses me  of defamation.
 
 
-> ![QUOTE]
+![QUOTE]
 >Ed is a bit of a delinquent.
 > - MacE, 2023
 
