@@ -34,7 +34,18 @@ If something isn't working, raise the issue on the github repository and blame E
 ## Computer Science
 - In progress
 
-[[notes/Computer Science|Computer Science]]
+### Programming
+- Please note that these notes are incomplete
+
+- [[notes/AECSC - Intro|Intro]]
+- [[notes/AECSC - Binary|Binary]]
+- [[notes/AECSC - Pseudocode|Pseudocode]]
+- [[notes/AECSC - Iterations|Iterations]]
+- [[notes/AECSC - Case|Case]]
+- [[notes/AECSC - Functions|Functions]]
+- [[notes/AECSC - Arrays|Arrays]]
+
+
 
 
 
