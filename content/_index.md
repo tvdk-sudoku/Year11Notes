@@ -14,6 +14,7 @@ If something isn't working, raise the issue on the github repository and blame E
 
 
 
+
 ## Economics
 [[notes/Economics|Economics]]
 
