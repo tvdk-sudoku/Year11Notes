@@ -67,7 +67,7 @@ The original
 
 Specific tax:
 - The tax is a fixed amount or is a set sum of money per unit
-Something else
+
 
 
 ### Why?
