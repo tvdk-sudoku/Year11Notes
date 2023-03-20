@@ -130,7 +130,7 @@ On Consumer Surplus:
 On Producer Surplus:
 - 
 On Tax Payers:
-- 
+- Total cost  of 
 On Total Welfare:
 - 
 
