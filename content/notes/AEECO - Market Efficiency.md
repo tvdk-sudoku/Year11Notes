@@ -136,6 +136,7 @@ On Total Welfare:
 
 
 ### Tax
+Lots of math that we don't need to do
 
 
 
