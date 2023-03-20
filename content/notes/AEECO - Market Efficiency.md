@@ -119,3 +119,24 @@ Specific tax:
 
 
 
+
+## Notes from Videos
+### Su
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
