@@ -98,7 +98,8 @@ Specific tax:
 - Allows the producer to export more
 - Aids the expansion of the firm
 
-
+### Impacts
+- DWL as part of government expenditure on the subsidy is not translate
 
 
 
