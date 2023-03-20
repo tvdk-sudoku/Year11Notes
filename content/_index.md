@@ -20,9 +20,10 @@ If something isn't working, raise the issue on the github repository and blame E
 - These are chapter summaries from the textbook
 - [[notes/AEECO - Chapter 1|Chapter 1]]
 - [[notes/AEECO - Chapter 2|Chapter 2]]
+- [[notes/AEECO - Chapter 3|Chapter 3]]
 - [[notes/AEECO - Chapter 4|Chapter 4]]
 
-(Don't ask about chapter 3, it never happened.)
+
 
 
 ### Notes
