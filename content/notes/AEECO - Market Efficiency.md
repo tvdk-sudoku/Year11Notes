@@ -94,9 +94,11 @@ Specific tax:
 ## Subsidies
 > A payment by the government to a firm to reduce production costs and increase output.
 
-- Encourages production of goods with positive externatilies
+- Encourages production of goods with positive externalities
 - Allows the producer to export more
 - Aids the expansion of the firm
+
+
 
 
 
