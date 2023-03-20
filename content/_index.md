@@ -25,7 +25,6 @@ If something isn't working, raise the issue on the github repository and blame E
 
 
 
-
 ### Notes
 - [[AEECO - Intro|Intro]]
 - [[notes/AEECO - Demand and Supply|Demand and Supply]]
