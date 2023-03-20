@@ -130,7 +130,7 @@ On Consumer Surplus:
 On Producer Surplus:
 - 
 On Tax Payers:
-- Total cost  of 
+- Total cost of the subsidy exceeds the total benefit in subsidy $\rightarrow$ DWL
 On Total Welfare:
 - 
 
