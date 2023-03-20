@@ -125,11 +125,14 @@ Specific tax:
 > A subsidy is a payment from the government to producers for each unit produced
 
 #### Effects of the subsidy
-- On Consumer Surplus:
-	- -
-- On Producer Surplus:
-	- -
-- O
+On Consumer Surplus:
+- 
+On Producer Surplus:
+- 
+On Tax Payers:
+- 
+On Total Welfare:
+- 
 
 
 
