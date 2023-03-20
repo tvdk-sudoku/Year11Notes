@@ -25,6 +25,8 @@ Loss in total surplus that is avoidable.
 
 
 ## Efficiency
+> -
+
 ### Price Ceiling
 > Is the highest price that a producer can charge on a good.
 
@@ -90,7 +92,10 @@ Specific tax:
 
 
 ## Subsidies
-> A payment by the government to a firm to reduce production costs and increase o
+> A payment by the government to a firm to reduce production costs and increase output.
+
+
+
 
 
 
