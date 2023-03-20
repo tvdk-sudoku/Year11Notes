@@ -89,7 +89,8 @@ Specific tax:
 6. Conclusion on efficiency
 
 
-
+## Subsidies
+> A payment by the government to a firm to reduce production costs and increase o
 
 
 
