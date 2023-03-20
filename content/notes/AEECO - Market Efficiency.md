@@ -121,7 +121,8 @@ Specific tax:
 
 
 ## Notes from Videos
-### Su
+### Subsidy
+> A subsidy is a payment from the government to producers for each unit pr
 
 
 
