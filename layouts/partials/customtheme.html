@@ -1,0 +1,23 @@
+{{ if eq .Params.css "official"}}
+{{ template "css/official.html" }}
+{{ end }}
+
+{{ if eq .Params.css "index"}}
+{{ template "css/index.html" }}
+{{ end }}
+
+{{ if eq .Params.css "jacaranda"}}
+{{ template "css/jacaranda.html" }}
+{{ end }}
+
+{{ if eq .Params.css "test"}}
+{{ template "css/test.html" }}
+{{ end }}
+
+{{ if eq .Params.css "wheat"}}
+{{ template "css/wheat.html" }}
+{{ end }}
+
+{{ if eq .Params.css "coding"}}
+{{ template "css/coding.html" }}
+{{ end }}
