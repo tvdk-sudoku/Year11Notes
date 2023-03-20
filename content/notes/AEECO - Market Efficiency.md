@@ -99,7 +99,8 @@ Specific tax:
 - Aids the expansion of the firm
 
 ### Impacts
-- DWL as part of government expenditure on the subsidy is not translate
+- DWL as part of government expenditure on the subsidy is not translated into either consumer or producer surplus
+- 
 
 
 
