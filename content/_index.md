@@ -1,6 +1,7 @@
 ---
 title: Notes
 enableToc: false
+theme: offical
 ---
 # Welcome to my notes v3
 Welcome to my notes. They are very unfinished as I am in the process of moving and uploading them to this new website. 
