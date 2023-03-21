@@ -12,6 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
+googleAnalytics: G-BBXRB0VB1R
 GitHubLink: https://github.com/grim4reaper/Year11Notes/tree/hugo/content
 search:
   enableSemanticSearch: false
