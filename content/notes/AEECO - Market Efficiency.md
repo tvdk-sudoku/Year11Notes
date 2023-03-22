@@ -67,7 +67,7 @@ The original
 #### Indirect Tax
 - Consumers do not pay the tax directly, but are affected through changes in the price of the good or service
 
-Specific tax:
+#### Specific Tax
 - The tax is a fixed amount or is a set sum of money per unit
 
 
