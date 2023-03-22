@@ -14,7 +14,7 @@ If something isn't working, raise the issue on the github repository and blame E
 >Ed is a bit of a delinquent.
 > - MacE, 2023
 
-> ![QUOTE] 
+
 
 
 ## Economics
