@@ -49,8 +49,8 @@ If something isn't working, raise the issue on the github repository and blame E
 
 
 ```mermaid
-graph
-A --> B
+graph LR
+A(a) --> B(a)
 
 
 
