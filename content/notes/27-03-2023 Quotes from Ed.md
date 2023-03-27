@@ -17,9 +17,11 @@ title: Quotes From Ed
 > [!QUOTE] Ed
 > “look its my mouth oooh”
 
+> [!QUOTE] Ed
+> “will nut everywhere”
 
-
-
+> [!QUOTE] Ed
+> “want to catch that white sticky stuff”
 
 
 
