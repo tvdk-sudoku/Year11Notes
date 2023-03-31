@@ -8,7 +8,7 @@ Welcome to my notes. They are very unfinished as I am in the process of moving a
 
 If something isn't working, raise the issue on the github repository and blame Edward (@EddieTheEd [EddieTheEd](https://github.com/EddieTheEd)). He slanders me on his website, which you should not visit (his website is also a virus). He also unjustly accuses me of defamation. I am not the person who has burnt their house done twice (unlike Edd). These allegations are addressed [[notes/17-03-2023 Allegations|here]].
 
-The rumours surrounding Ed dating Shan-mei have been confirmed. 
+The rumours surrounding Ed dating Shan-mei have been confirmed. He is now assaulting me and Widjaja (H.K.Widjaja).
 
 [Here](notes/27-03-2023%20Quotes%20From%20Ed.md) some funny quotes from Ed can be found.
 
