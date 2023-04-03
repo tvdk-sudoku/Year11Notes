@@ -36,13 +36,13 @@ title: Market Failure
 
 
 
-## Tragedy of the Commons
+### Tragedy of the Commons
 - Refers to the over-consumption of common property resources
 - Occurs as the resource is readily available and there are no restrictions on consumption
 - However, once consumed the resource is not available to any other party.
 
 
-## Free Rider Effect
+### Free Rider Effect
 - Free riders enjoy the benefits of the consumption of a resource without paying for the cost of provision
 - This can lead to over-consumption and rapid damage of a public resource
 
@@ -51,6 +51,11 @@ title: Market Failure
 - Enforce restrictions on consumption - eg fishing limits
 #### Public Goods
 - Create ownership of the resource - eg fines, fees
+
+## Merit Goods and Demerit Goods
+Me
+
+
 
 
 
