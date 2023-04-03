@@ -43,7 +43,10 @@ title: Market Failure
 
 
 ## Free Rider Effect
-- Free riders enjoy the benefits of the consumption of a resource without paying for the cost
+- Free riders enjoy the benefits of the consumption of a resource without paying for the cost of provision
+- This can lead to over-consumption and rapid damage of a public resource
+
+
 
 
 
