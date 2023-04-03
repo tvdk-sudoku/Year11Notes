@@ -34,7 +34,7 @@ title: Market Failure
 - There are no requirements to be met before being able to access the good or service
 
 
-
+## Market Failure
 
 ### Tragedy of the Commons
 - Refers to the over-consumption of common property resources
