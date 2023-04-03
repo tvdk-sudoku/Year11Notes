@@ -13,10 +13,13 @@ title: Market Failure
 **Rival**
 - Your consumption of the good or service means another party cannot consume it
 **Excludable**
-- There are requirements to be met before accessing the goods
+- There are requirements to be met before being able to access the good or service
 
 ### Club Goods
-**
+**Non-Rival**
+- Your consumption of the good or service does not prevent another party from consuming it
+**Excludable**
+- There are requirements to be met before being able to access the good or service
 
 
 
