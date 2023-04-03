@@ -9,6 +9,9 @@ title: Market Failure
 #### Excludable
 - Is it possible to exclude a non-payer from the good or service
 
+### Private Goods
+**Rival**
+- Your consumption of the god or service means another partycanno
 
 
 
