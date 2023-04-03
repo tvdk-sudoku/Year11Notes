@@ -60,7 +60,7 @@ title: Market Failure
 **Demerit goods**
 - Goods that are produced that have large external costs for society
 - Goods that will be overprovided if left in the market
-- Private goods as they are both rivalry and exclusive
+- Are private goods as they are both rivalry and exclusive
 
 
 
