@@ -27,11 +27,21 @@ title: Market Failure
 **Non-Excludable**
 - There are no requirements to be met before being able to access the good or service
 
+### Public Goods
+**Non-Rival**
+- Your consumption of the good or service does not prevent another party from consuming it
+**Non-Excludable**
+- There are no requirements to be met before being able to access the good or service
+
+
+
 
 ## Tragedy of the Commons
 - Refers to the over-consumption of common property resources
 - Occurs as the resource is readily available and there are no restrictions on consumption
-- However, once consumed the resource is not available to any other par
+- However, once consumed the resource is not available to any other party.
+
+
 
 
 
