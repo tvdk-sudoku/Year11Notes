@@ -42,6 +42,11 @@ title: Market Failure
 - However, once consumed the resource is not available to any other party.
 
 
+## Free Rider Effect
+- Free riders enjoy the benefits of the consumption of a resource without paying for the cost
+
+
+
 
 
 
