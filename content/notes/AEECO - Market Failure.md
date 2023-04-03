@@ -11,8 +11,12 @@ title: Market Failure
 
 ### Private Goods
 **Rival**
-- Your consumption of the god or service means another partycanno
+- Your consumption of the good or service means another party cannot consume it
+**Excludable**
+- There are requirements to be met before accessing the goods
 
+### Club Goods
+**
 
 
 
