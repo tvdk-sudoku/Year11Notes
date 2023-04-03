@@ -36,7 +36,7 @@ title: Market Failure
 
 ## Market Failure
 
-### Tragedy of the Commons
+### Tragedy of the Commons - Common Resources
 - Refers to the over-consumption of common property resources
 - Occurs as the resource is readily available and there are no restrictions on consumption
 - However, once consumed the resource is not available to any other party.
