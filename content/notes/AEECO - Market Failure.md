@@ -47,6 +47,12 @@ title: Market Failure
 - This can lead to over-consumption and rapid damage of a public resource
 
 ### Policy Options to Address the Market Failure
+#### Common Property Goods
+- Enforce restrictions on consumption - eg fishing limits
+#### Public Goods
+- Create ownership of the resource - eg fines, fees
+
+
 
 
 
