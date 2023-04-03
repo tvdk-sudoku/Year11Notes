@@ -21,7 +21,9 @@ title: Market Failure
 **Excludable**
 - There are requirements to be met before being able to access the good or service
 
-
+### Common Property Resources
+**Rival**
+- Your consumption of the good or service means 
 
 
 
