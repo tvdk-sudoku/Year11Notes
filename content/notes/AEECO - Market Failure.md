@@ -53,8 +53,12 @@ title: Market Failure
 - Create ownership of the resource - eg fines, fees
 
 ## Merit Goods and Demerit Goods
-Me
+**Merit goods**
+- Goods that are produced that have large external benefits for society
+- Goods that will be underprovided in the economy if the product is left in the market
 
+**Demerit goods**
+- 
 
 
 
