@@ -2,7 +2,7 @@
 title: Market Failure
 ---
 
-## Causes of Market Failure
+# Causes of Market Failure
 ### Classification of Goods
 #### Rival
 - Does the consumption by one party reduce the supply available for another?
@@ -23,10 +23,13 @@ title: Market Failure
 
 ### Common Property Resources
 **Rival**
-- Your consumption of the good or service means 
+- Your consumption of the good or service means another party cannot consume it
+**Non-Excludable**
+- There are no requirements to be met before being able to access the good or service
 
 
-
+## Tragedy of the Commons
+- Redfe
 
 
 
