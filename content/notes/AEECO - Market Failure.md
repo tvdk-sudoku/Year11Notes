@@ -58,7 +58,9 @@ title: Market Failure
 - Goods that will be underprovided in the economy if the product is left in the market
 
 **Demerit goods**
-- 
+- Goods that are produced that have large external costs for society
+- Goods that will be overprovided if left in the market
+- Private goods as they are both rivalry and exclusive
 
 
 
