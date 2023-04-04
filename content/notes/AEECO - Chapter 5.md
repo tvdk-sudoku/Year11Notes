@@ -97,7 +97,7 @@ Pollution is a classic example of a negative externality.
 
 **Social cost is equal to private costs plus external cost**
 
-
+![[Images/Negative Externality.png]]
 
 
 
