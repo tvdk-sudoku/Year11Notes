@@ -95,7 +95,9 @@ Pollution is a classic example of a negative externality.
 - Firms pollute the environment as it is free (no one owns it)
 - If the firm was forced to install air filters to eliminate the pollutants, then there would be no external cost and there would be no market failure
 
-**Social cost is equal to private costs plus ext
+**Social cost is equal to private costs plus external cost**
+
+![[notes/Pasted image 20230404152047.png]]
 
 
 
