@@ -10,6 +10,8 @@ If something isn't working, raise the issue on the github repository and blame E
 
 The rumours surrounding Ed dating Shan-mei have been confirmed. He is now assaulting me and Widjaja (H.K.Widjaja) for telling the truth. He even went on a date to a concert with her - "allegedly" as Ed says.
 
+Ed is married to [redacted]
+
 [Here](notes/27-03-2023%20Quotes%20From%20Ed.md) some funny quotes from Ed can be found.
 
 
