@@ -19,7 +19,10 @@ title: Economics Index
 - [[notes/AEECO - Demand and Supply|Demand and Supply]]
 - [[notes/AEECO - Elasticity|Elasticity]]
 - [[notes/AEECO - Market Efficiency|Market Efficiency]]
-- [[notes/AEECO - Market Failure|Mart]]
+- [[notes/AEECO - Market Failure|Market Failure]] - In progress
+
+
+
 
 
 
