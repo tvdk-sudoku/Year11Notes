@@ -56,7 +56,9 @@ A patent on an invention gives protection from competition
 
 
 ### Anti-Competitive Behaviour
-- Firms with m
+- Firms with market power $\rightarrow$ incentive to reduce competition
+	- Either reducing price competition or by reducing the number of firms competing in the market
+- The term
 
 
 
