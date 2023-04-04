@@ -61,7 +61,11 @@ A patent on an invention gives protection from competition
 
 
 > [!DEFINITION] Anti-Competitive Behaviour
-> Refers to any agreements or arrangements between firms that seek to restrain competition and thereby remove the automatic re
+> Refers to any agreements or arrangements between firms that seek to restrain competition and thereby remove the automatic regulation that competitive markets achieve
+
+
+
+
 
 
 
