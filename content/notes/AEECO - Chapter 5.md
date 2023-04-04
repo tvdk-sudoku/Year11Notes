@@ -91,7 +91,9 @@ Examples:
 > When economic actions from either production or consumption create an external cost, it is referred to as a negative externality.
 
 Pollution is a classic example of a negative externality.
-- A factory that emits pollution
+- A factory that emits pollutants into the atmosphere is likely to impose an external cost on those people who are affected by the pollutants
+- Firms pollute the environment as it is free (no one owns it)
+	- If 
 
 
 
