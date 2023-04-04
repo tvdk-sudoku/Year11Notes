@@ -42,7 +42,9 @@ A Government licence granting a legal monopoly
 - E.g. Australia Post
 
 A technological advantage
-- E.g. Microsoft has considerable market power because it supplies the operating system used 
+- E.g. Microsoft has considerable market power because it supplies the operating system used in most computers
+
+A patent 
 
 
 
