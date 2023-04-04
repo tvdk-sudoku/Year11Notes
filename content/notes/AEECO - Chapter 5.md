@@ -77,7 +77,12 @@ A patent on an invention gives protection from competition
 ## Externalities
 
 > [!DEFINITION] Externalities
-> The 
+> The side effects of economic activity are referred to as externalities.
+
+
+### Negative Externa
+
+
 
 
 
