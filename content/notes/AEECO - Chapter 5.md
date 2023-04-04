@@ -44,8 +44,11 @@ A Government licence granting a legal monopoly
 A technological advantage
 - E.g. Microsoft has considerable market power because it supplies the operating system used in most computers
 
-A patent 
+A patent on an invention gives protection from competition
+- Up to 17 years in Australia
 
+
+Impe
 
 
 
