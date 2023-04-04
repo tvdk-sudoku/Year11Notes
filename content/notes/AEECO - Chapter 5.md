@@ -38,7 +38,11 @@ Higher prices in imperfect markets due to less competition.
 Controlling a scarce resource
 - If a mining company pegged the only diamond mine in the country, it would have sole rights to mine the gems
 
-A Government 
+A Government licence granting a legal monopoly
+- E.g. Australia Post
+
+A technological advantage
+- E.g. Microsoft has considerable market power because it supplies the operating system used 
 
 
 
