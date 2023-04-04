@@ -23,7 +23,8 @@ Ed is married to [REDACTED].
 
 ## Notes
 
-**[[notes/ACECO - Index|Economics]]
+### [[notes/ACECO - Index|Economics]]
+- In progress
 
 
 
