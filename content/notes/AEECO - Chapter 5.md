@@ -10,7 +10,11 @@ The model of demand and supply applies to a competitive market.
 
 Imperfect markets exists when:
 - Relatively small number of firms
-- firms 
+- Firms have market power
+- Firms use product differentiation
+- barriers to entry are used to restrict competition
+
+
 
 
 
