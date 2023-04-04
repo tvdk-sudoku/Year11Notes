@@ -80,7 +80,11 @@ A patent on an invention gives protection from competition
 > The side effects of economic activity are referred to as externalities.
 
 
-### Negative Externa
+### Negative Externalities
+Examples:
+- Smog from driving cars
+- Lawn mowers create noise pollution
+- Use of fossil fuels contribute to global warming
 
 
 
