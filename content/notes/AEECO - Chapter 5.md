@@ -18,6 +18,10 @@ The model of demand and supply applies to a competitive market.
 #### Examples
 - Monopoly
 	- Is a market with just one firm
+	- E.g. Synergy, Australia Post
+- Oligopoly
+	- Is a market with a few large dominant firms
+	- E.g. Coles and Woolworths dominate the 
 
 
 
