@@ -52,7 +52,8 @@ A patent on an invention gives protection from competition
 - Imperfect markets $\rightarrow$ Firms use market power to 'exploit' the market.
 - A firm has market power if it can affect the market price by varying its output.
 - Firms with market power will try to maximise profit.
-- Private interest $\rightarrow$ not necessarily 
+- Private interest $\rightarrow$ not necessarily align with society
+- 
 
 
 
