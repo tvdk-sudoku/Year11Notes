@@ -87,6 +87,9 @@ Examples:
 - Use of fossil fuels contribute to global warming
 
 
+> [!DEFINITION] Negative Externalities
+> When economic actions from either production or consumption create an external 
+
 
 
 
