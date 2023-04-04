@@ -21,7 +21,11 @@ The model of demand and supply applies to a competitive market.
 	- E.g. Synergy, Australia Post
 - Oligopoly
 	- Is a market with a few large dominant firms
-	- E.g. Coles and Woolworths dominate the 
+	- E.g. Coles and Woolworths dominate the grocery market in Australia
+
+In an imperfect market, firms are said to have market or 'monopoly' power which means that they can set the price.
+
+Higher prices in 
 
 
 
