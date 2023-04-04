@@ -53,7 +53,10 @@ A patent on an invention gives protection from competition
 - A firm has market power if it can affect the market price by varying its output.
 - Firms with market power will try to maximise profit.
 - Private interest $\rightarrow$ not necessarily align with society
-- 
+
+
+### Anti-Competitive Behaviour
+- Firms with m
 
 
 
