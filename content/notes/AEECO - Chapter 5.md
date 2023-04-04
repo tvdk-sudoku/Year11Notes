@@ -4,18 +4,18 @@ title: Chapter 5
 
 # Market Power
 
-### Imperfect Markets
+## Imperfect Markets
 The model of demand and supply applies to a competitive market.
 - This is characterised by a large number of small firms, free entry and exit and very little product differentiation.
 - When one or more of these conditions are not met, the the market is 'imperfect'
 
-#### Imperfect markets exists when:
+### Imperfect markets exists when:
 - Relatively small number of firms
 - Firms have market power
 - Firms use product differentiation
 - barriers to entry are used to restrict competition
 
-#### Examples
+### Examples
 - Monopoly
 	- Is a market with just one firm
 	- E.g. Synergy, Australia Post
@@ -25,7 +25,10 @@ The model of demand and supply applies to a competitive market.
 
 In an imperfect market, firms are said to have market or 'monopoly' power which means that they can set the price.
 
-Higher prices in 
+Higher prices in imperfect markets due to less competition.
+
+### Barriers to Enter
+
 
 
 
