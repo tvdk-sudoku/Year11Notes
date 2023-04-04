@@ -88,7 +88,10 @@ Examples:
 
 
 > [!DEFINITION] Negative Externalities
-> When economic actions from either production or consumption create an external 
+> When economic actions from either production or consumption create an external cost, it is referred to as a negative externality.
+
+Pollution is a classic example of a negative externality.
+- A factory that emits pollution
 
 
 
