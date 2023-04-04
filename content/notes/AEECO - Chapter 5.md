@@ -34,7 +34,11 @@ Higher prices in imperfect markets due to less competition.
 > A barrier to entry is anything that restricts or blocks the entry of new firms into an industry or market.
 > They may include government regulation, and patents, technology barriers, start-up costs and licensing requirements.
 
+#### Examples
+Controlling a scarce resource
+- If a mining company pegged the only diamond mine in the country, it would have sole rights to mine the gems
 
+A Government 
 
 
 
