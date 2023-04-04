@@ -103,7 +103,7 @@ Pollution is a classic example of a negative externality.
 ### Positive Externalities
 
 > [!DEFINITION] Positive Externalities
-> Contents
+> Positive 
 
 
 
