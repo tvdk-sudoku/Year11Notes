@@ -74,6 +74,18 @@ A patent on an invention gives protection from competition
 
 
 
+## Externalities
+
+> [!DEFINITION] Externalities
+> The 
+
+
+
+
+
+
+
+
 
 
 
