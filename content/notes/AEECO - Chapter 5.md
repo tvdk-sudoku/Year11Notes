@@ -28,6 +28,13 @@ In an imperfect market, firms are said to have market or 'monopoly' power which 
 Higher prices in imperfect markets due to less competition.
 
 ### Barriers to Enter
+- Are an important feature of imperfect markets
+
+> [!DEFINITION] Barrier to Enter
+> A barrier to entry is anything that restricts or blocks the entry of new firms into an industry or ma
+
+
+
 
 
 
