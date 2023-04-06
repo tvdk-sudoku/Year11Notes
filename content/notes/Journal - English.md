@@ -1,4 +1,7 @@
 ---
 title: Journal - English
 ---
-|
+
+
+
+
