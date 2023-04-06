@@ -28,7 +28,8 @@ Ed is married to [REDACTED].
 
 
 ### [[notes/AECSC - Index|Computer Science]]
-- 
+- Not really updated and is terrible
+- Check out [Mace's](https://github.com/MaceChettiyadan/Y11Notes) notes for computer science
 
 
 
