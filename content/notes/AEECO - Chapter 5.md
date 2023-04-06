@@ -158,10 +158,10 @@ Positive externality $\rightarrow$ subsidy should be used to increase output
 **Non-Excludable**
 - There are no requirements to be met before being able to access the good or service
 
-| x                  | **Rival** | **Non-rival** |
-| ------------------ | --------- | ------------- |
-| **Excludable**     |           |               |
-| **Non-Excludable** |           |               |
+|                  | **Rival**       | **Non-Rival** |
+| ------------------ | --------------- | ------------- |
+| **Excludable**     | Private Good    | Club Good     |
+| **Non-Excludable** | Common Resource | Public Good   |
 
 
 
