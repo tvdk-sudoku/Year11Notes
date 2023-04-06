@@ -7,7 +7,7 @@ title: Computer Science Index
 
 ### Programming
 - Please note that these notes are incomplete
-- The are also not really being updated as computer science is a dead 
+- The are also not really being updated as computer science is a dead subject
 
 - [[notes/AECSC - Intro|Intro]]
 - [[notes/AECSC - Binary|Binary]]
