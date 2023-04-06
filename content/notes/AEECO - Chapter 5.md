@@ -117,7 +117,7 @@ Governments can use market based policies to correct for externalities.
 ![[notes/IMAGE - Government Externalities Policies.png|500]]
 
 
-
+$$
 
 
 
