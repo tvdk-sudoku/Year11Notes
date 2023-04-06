@@ -111,7 +111,9 @@ Pollution is a classic example of a negative externality.
 
 ### Government Policy and Externalities
 
-When externalities exist, the market outcome will not be efficient - the optimal quantity will not be produced and the price charged may not reflect the true value 
+When externalities exist, the market outcome will not be efficient - the optimal quantity will not be produced and the price charged may not reflect the true value of the resources used in production.
+
+Governments can use market based policies to correc
 
 
 
