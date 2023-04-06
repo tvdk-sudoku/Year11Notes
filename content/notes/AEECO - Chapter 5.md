@@ -105,6 +105,8 @@ Pollution is a classic example of a negative externality.
 > [!DEFINITION] Positive Externalities
 > Positive externalities create an external benefit for third parties
 
+**Social benefit is equal to private benefits plus external benefits**
+
 
 
 
