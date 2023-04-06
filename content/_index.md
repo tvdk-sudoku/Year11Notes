@@ -12,7 +12,7 @@ The rumours surrounding Ed dating Shan-mei have been confirmed. He is now assaul
 
 Ed is married to [REDACTED].
 
-[Here](notes/27-03-2023%20Quotes%20From%20Ed.md) some funny quotes from Ed can be found.
+Jou
 
 
 > [!QUOTE] Facts
@@ -36,16 +36,7 @@ Ed is married to [REDACTED].
 
 
 
-## Journaling
-- This is a journal of what we do in each lesson starting term 2
-- It will be quite brief and may miss lessons
 
-[[notes/Journal - Methods|Methods]]
-[[notes/Journal - Specialist|Specialist]]
-[[notes/Journal - Physics|Physics]]
-[[notes/Journal - Economics|Economics]]
-[[notes/Journal - Computer Science|Computer Science]]
-[[notes/Journal - English|English]]
 
 
 
