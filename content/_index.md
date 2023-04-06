@@ -12,7 +12,7 @@ The rumours surrounding Ed dating Shan-mei have been confirmed. He is now assaul
 
 Ed is married to [REDACTED].
 
-Jou
+Journals can be found [[notes/Journaling|Journaling]].
 
 
 > [!QUOTE] Facts
