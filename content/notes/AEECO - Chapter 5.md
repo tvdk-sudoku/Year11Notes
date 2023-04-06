@@ -109,6 +109,21 @@ Pollution is a classic example of a negative externality.
 
 
 
+### Government Policy and Externalities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
