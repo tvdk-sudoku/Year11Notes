@@ -117,7 +117,11 @@ Governments can use market based policies to correct for externalities.
 ![[notes/IMAGE - Government Externalities Policies.png|500]]
 
 
-Negative externality $\rightarrow$ tax should be placed on the 
+Negative externality $\rightarrow$ tax should be placed on the producer to reduce output
+Positive externality $\rightarrow$ subsidy should be used to increase output
+
+
+## 
 
 
 
