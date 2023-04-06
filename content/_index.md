@@ -21,6 +21,8 @@ Ed is married to [REDACTED].
 
 
 
+
+
 ## Notes
 
 ### [[notes/AEECO - Index|Economics]]
@@ -29,12 +31,13 @@ Ed is married to [REDACTED].
 
 ### [[notes/AECSC - Index|Computer Science]]
 - Not really updated and is terrible
-- Check out [Mace's](https://github.com/MaceChettiyadan/Y11Notes) notes for computer science
+- Check out [Mace's](https://github.com/MaceChettiyadan/Y11Notes) notes for computer science as they are really good
 
 
 
 
-
+## Journalling
+- This is a journal of what we do in each lesson
 
 
 
