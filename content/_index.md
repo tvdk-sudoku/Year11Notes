@@ -36,8 +36,10 @@ Ed is married to [REDACTED].
 
 
 
-## Journalling
-- This is a journal of what we do in each lesson
+## Journaling
+- This is a journal of what we do in each lesson starting term 2
+- It will be quite brief and may miss lessons
+
 
 
 
