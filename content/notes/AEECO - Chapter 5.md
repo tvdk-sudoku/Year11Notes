@@ -210,15 +210,7 @@ Positive externality $\rightarrow$ subsidy should be used to increase output
 
 
 
-$$
-\begin{align*}
 
-\pi\\
-\delta\\
-
-
-\end{align*}
-$$
 
 
 
