@@ -17,7 +17,7 @@ Journals can be found [[notes/Journaling|Journaling]].
 
 > [!QUOTE] Facts
 >Ed is a bit of a delinquent.
-> - MacE, 2023
+> 	MacE, 2023
 
 
 
