@@ -30,7 +30,7 @@ Journals can be found [[notes/Journaling|Journaling]].
 
 
 ### [[notes/AECSC - Index|Computer Science]]
-- Not really updated/
+- Not really updated
 - Check out [Mace's](https://github.com/MaceChettiyadan/Y11Notes) notes for computer science as they are really good
 
 
