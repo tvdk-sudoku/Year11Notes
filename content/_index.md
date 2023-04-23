@@ -10,7 +10,7 @@ If something isn't working, raise the issue on the github repository and blame E
 
 The rumours surrounding Ed dating Shan-mei have been confirmed. He is now assaulting me and Widjaja (H.K.Widjaja) for telling the truth. He even went on a date to a concert with her - "allegedly" as Ed says.
 
-Ed is married to [REDACTED].
+Ed is dating [REDACTED].
 
 Journals can be found [[notes/Journaling|Journaling]].
 
@@ -30,7 +30,7 @@ Journals can be found [[notes/Journaling|Journaling]].
 
 
 ### [[notes/AECSC - Index|Computer Science]]
-- Not really updated and is terrible
+- Not really updated
 - Check out [Mace's](https://github.com/MaceChettiyadan/Y11Notes) notes for computer science as they are really good
 
 
