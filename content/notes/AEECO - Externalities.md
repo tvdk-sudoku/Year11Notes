@@ -20,7 +20,7 @@ When MPC=MSC and MPB=MSB socially optimal
 
 - It is the side effects of economic activity; or
 - Unintended consequences of economic activity
-- Externalities cause market failure if the price mechanism s
+- Externalities cause market failure if the price mechanism does not take into account the social costs and benefits of production and consumption
 
 
 
