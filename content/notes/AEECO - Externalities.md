@@ -1,6 +1,7 @@
 ---
 title: Externalities
 ---
+# Externalities
 
 ### Key Concepts
 Demand: Private benefits that consumers receive 
@@ -10,7 +11,10 @@ MSC (Marginal Social Cost): Costs to society of producing one more unit of a goo
 MPB (Marginal Private Benefit): Benefits to consumers from consuming one more unit of a good 
 MSB (Marginal Social Benefit): Benefits to society from consuming one more unit of a good 
 
-When MPC=MSC a
+When MPC=MSC and MPB=MSB socially optimal
+
+
+## Externalities
 
 
 
