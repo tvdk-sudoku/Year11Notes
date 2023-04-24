@@ -18,9 +18,9 @@ When MPC=MSC and MPB=MSB socially optimal
 > [!DEFINITION] Externalities
 > Externalities occur when the production or consumption of a good/service cause external costs and/or external benefits.
 
-
-
-
+- It is the side effects of economic activity; or
+- Unintended consequences of economic activity
+- Externalities cause market failure if the price mechanism s
 
 
 
