@@ -15,6 +15,10 @@ When MPC=MSC and MPB=MSB socially optimal
 
 
 ## Externalities
+> [!DEFINITION] Externalities
+> Externalities occur when the production or consumption of a good/service cause external costs and/or external benefits.
+
+
 
 
 
