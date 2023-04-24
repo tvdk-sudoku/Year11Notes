@@ -6,13 +6,9 @@ css: "official"
 # Welcome to my notes v3
 Welcome to my notes. They are very unfinished as I am in the process of moving and uploading them to this new website. 
 
-If something isn't working, raise the issue on the github repository and blame Edward (@EddieTheEd [EddieTheEd](https://github.com/EddieTheEd)). He slanders me on his website, which you should not visit. He also unjustly accuses me of defamation. I am not the person who has burnt their house done twice (unlike Edd).
+If something isn't working, raise the issue on the github repository and blame Edward (@EddieTheEd [EddieTheEd](https://github.com/EddieTheEd)). He slanders me on his website, which you should not visit. He also unjustly accuses me of defamation. I am not the person who has burnt their house done twice (unlike Ed).
 
-The rumours surrounding Ed dating Shan-mei have been confirmed. He is now assaulting me and Widjaja (H.K.Widjaja) for telling the truth. He even went on a date to a concert with her - "allegedly" as Ed says.
-
-Ed is dating [REDACTED].
-
-Journals can be found [[notes/Journaling|Journaling]].
+I have started a journal of what we do in class each lesson which can be found [[notes/Journaling|here]].
 
 
 > [!QUOTE] Facts
