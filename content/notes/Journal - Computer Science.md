@@ -7,5 +7,5 @@ title: Journal - Computer Science
 Continued work on our project that is due in on Wednesday
 
 #### W1L2
-Messed around as usual
+Messed around as usual. No one was productive.
 
