@@ -6,5 +6,6 @@ title: Journal - Computer Science
 #### W1L1
 Continued work on our project that is due in on Wednesday
 
-
+#### W1L2
+Messed around as usual
 
