@@ -10,6 +10,9 @@ If something isn't working, raise the issue on the github repository and blame E
 
 I have started a journal of what we do in class each lesson which can be found [[notes/Journaling|here]].
 
+I am part of the [[notes/Town|Town]]
+
+
 
 > [!QUOTE] Facts
 >Ed is a bit of a delinquent.
