@@ -14,7 +14,6 @@ MSB (Marginal Social Benefit): Benefits to society from consuming one more unit 
 When MPC=MSC and MPB=MSB socially optimal
 
 
-## Externalities
 > [!DEFINITION] Externalities
 > Externalities occur when the production or consumption of a good/service cause external costs and/or external benefits.
 
@@ -22,7 +21,7 @@ When MPC=MSC and MPB=MSB socially optimal
 - Unintended consequences of economic activity
 - Externalities cause market failure if the price mechanism does not take into account the social costs and benefits of production and consumption
 
-### Negative Externalities
+## Negative Externalities
 - Occurs when production and/or consumption creates an external cost
 - Causes overconsumption/production
 	- Market quantity is greater than optimal quantity
@@ -44,7 +43,8 @@ When MPC=MSC and MPB=MSB socially optimal
 	- Smoking
 	- Alcohol
 
-
+## Positive Externalities
+- 
 
 
 
