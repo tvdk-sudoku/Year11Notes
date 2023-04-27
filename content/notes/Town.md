@@ -7,7 +7,7 @@ I am part of the town. It is located in the middle of a desert with nothing but 
 
 The town consists of:
 - [M.Spicata](https://spicata.github.io/), who owns a multi-story garden filled with fresh plants. He has a variety of things growing in his garden, including a budget comic series.
-- 
+- [DefinitelyEddie](https://eddietheed.github.io/obsidiannotes-v.3/) lives in a quartz house and likes to keep his hous
 
 
 
