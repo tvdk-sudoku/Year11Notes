@@ -13,7 +13,7 @@ The town consists of:
 - [Anonymous](https://anonymoof1528.github.io/into-the-shadow-garten/) is really good at Japanese which is the main focus of his house. We don't know much about this anonymous person, so enter at your own risk.
 - [NotTacoz](https://nottacoz.github.io/jacaranda/) lives in/next to a Jacaranda tree. He imported it into the town for his home.
 - [Jonathan](https://supaqwerty.github.io/notes-dump/) lives in a quartz house that looks a lot like Ed's.
-- [Shan-Mei](https://shan-mei.github.io/shanmeis-notes/) loves music and journals what she does in class. She is the youngest
+- [Shan-Mei](https://shan-mei.github.io/shanmeis-notes/) loves music and journals what she does in class. She is the youngest resident (year 9)
 
 
 
