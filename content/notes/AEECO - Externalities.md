@@ -55,7 +55,10 @@ When MPC=MSC and MPB=MSB socially optimal
 	- Flu vaccines
 	- Education
 
-#### Positive P
+#### Positive Production Externality
+- Where the marginal social cost of production is lower than the marginal private cost
+- Example:
+	- Lower transport costs for local firms following construction of new rod
 
 
 
