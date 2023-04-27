@@ -11,7 +11,7 @@ The town consists of:
 - [MacE](https://macesnotes.netlify.app/) has one of the best computer science libraries in the town. He also has good physics notes. His house is a bit different from everyone else because he built it with his good computer science skills.
 - [NotMario](https://notmario.github.io/thenotes/) has the other really good computer science libraries. It lacks detail in other subjects.
 - [Anonymous](https://anonymoof1528.github.io/into-the-shadow-garten/) is really good at Japanese which is the main focus of his house. We don't know much about this anonymous person, so enter at your own risk.
-- 
+- [NotTacoz](https://nottacoz.github.io/jacaranda/) lives in/next to a Jacaranda tree. He imported it into the town for his home.
 
 
 
