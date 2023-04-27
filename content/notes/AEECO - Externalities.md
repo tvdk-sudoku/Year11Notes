@@ -44,7 +44,11 @@ When MPC=MSC and MPB=MSB socially optimal
 	- Alcohol
 
 ## Positive Externalities
-- 
+- External benefits of consumption or production for third parties
+- Causes under consumption or production
+- Results in deadweight loss
+
+### Types of 
 
 
 
