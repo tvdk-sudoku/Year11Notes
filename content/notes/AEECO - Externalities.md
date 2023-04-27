@@ -40,7 +40,11 @@ When MPC=MSC and MPB=MSB socially optimal
 
 #### Negative Consumption Externality
 - Where the marginal social benefit of consumption is lower the the marginal private benefit
-- Exampels
+- Examples:
+	- Smoking
+	- Alcohol
+
+
 
 
 
