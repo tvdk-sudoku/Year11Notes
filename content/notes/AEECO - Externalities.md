@@ -33,8 +33,16 @@ When MPC=MSC and MPB=MSB socially optimal
 #### Negative Production Externality
 - Where the marginal social cost of production is higher than the marginal private cost
 - Examples:
-	- Air
-	- Land
+	- Air pollution
+	- Land pollution
+	- Noise pollution
+
+
+#### Negative Consumption Externality
+- Where the marginal social benefit of consumption is lower the the marginal private benefit
+- Exampels
+
+
 
 
 
