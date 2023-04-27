@@ -29,7 +29,12 @@ When MPC=MSC and MPB=MSB socially optimal
 	- Market price is less than optimal price
 - Results in deadweight loss
 
-### Tupes of Negatie
+### Types of Negative Externalities
+#### Negative Production Externality
+- Where the marginal social cost of production is higher than the marginal private cost
+- Examples:
+	- Air
+	- Land
 
 
 
