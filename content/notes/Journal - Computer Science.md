@@ -10,6 +10,6 @@ Continued work on our project that is due in on Wednesday
 Messed around as usual. No one was productive.
 
 #### W1L3
-Started 
+Started networking.
 
 
