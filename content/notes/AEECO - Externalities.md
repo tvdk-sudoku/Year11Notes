@@ -26,7 +26,10 @@ When MPC=MSC and MPB=MSB socially optimal
 - Occurs when production and/or consumption creates an external cost
 - Causes overconsumption/production
 	- Market quantity is greater than optimal quantity
-	- Markte
+	- Market price is less than optimal price
+- Results in deadweight loss
+
+
 
 
 
