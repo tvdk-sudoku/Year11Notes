@@ -48,7 +48,14 @@ When MPC=MSC and MPB=MSB socially optimal
 - Causes under consumption or production
 - Results in deadweight loss
 
-### Types of 
+### Types of Positive Externalities
+#### Positive Consumptions Externality
+- Where the marginal social benefit of consumption is higher than the marginal private benefit
+- Examples:
+	- Flu vaccines
+	- Education
+
+#### Positive P
 
 
 
