@@ -14,7 +14,7 @@ The town consists of:
 - [NotTacoz](https://nottacoz.github.io/jacaranda/) lives in/next to a Jacaranda tree. He imported it into the town for his home.
 - [Jonathan](https://supaqwerty.github.io/notes-dump/) lives in a quartz house that looks a lot like Ed's.
 - [Shan-Mei](https://shan-mei.github.io/shanmeis-notes/) loves music and journals what she does in class. She is the youngest resident (year 9) and is allegedly dating Edward. Yes, there is a 2 year age difference, it just works.
-- [Pi-thagoras](https://pi-thagoras.github.io/the-chicken-pen/)'s house is just a chicken pen. Currently has econs, chem and jap notes.
+- [Pi-thagoras](https://pi-thagoras.github.io/the-chicken-pen/)'s house is just a chicken pen. Currently has econs, chem and jap notes. Be warned, it has a lot of bad puns.
 - And me :)
 
 
