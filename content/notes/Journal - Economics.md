@@ -9,7 +9,8 @@ Finally got our extended responses back. Class average was 12/20, cohort average
 #### W1L2
 Learnt about [[notes/AEECO - Externalities|externalities]].
 
-
+#### W1L3
+Learnt the diagrams for externalities.
 
 
 
