@@ -29,7 +29,7 @@ When MPC=MSC and MPB=MSB socially optimal
 	- Market price is less than optimal price
 - Results in deadweight loss
 
-
+### Tupes of Negatie
 
 
 
