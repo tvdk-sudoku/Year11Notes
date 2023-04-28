@@ -23,7 +23,8 @@ title: Economics Index
 	- [[notes/AEECO - Externalities|Externalities]] - In progress
 
 
-### Invest
+### Investigations
+- [[notes/AEECO - Investigation 1|Investigation 1]]
 
 
 
