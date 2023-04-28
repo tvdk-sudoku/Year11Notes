@@ -23,7 +23,7 @@ title: Economics Index
 	- [[notes/AEECO - Externalities|Externalities]] - In progress
 
 
-
+### Invest
 
 
 
