@@ -11,5 +11,5 @@ Did some very basic questions on sets. I had lots of great entertainment in the 
 Did some basic function stuff. I was bored because Ed had a rehearsal or something.
 
 #### W1L3
-Ed was back. YAY! Did 
+Ed was back. YAY! Did nothing.
 
