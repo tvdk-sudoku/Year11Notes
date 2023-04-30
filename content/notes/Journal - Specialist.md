@@ -10,7 +10,7 @@ Did test revision.
 Went over circle theorems.
 
 #### W1L3
-Did more ge
+Did more geometric vector proofs.
 
 
 
