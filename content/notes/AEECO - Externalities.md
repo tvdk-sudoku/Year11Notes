@@ -88,4 +88,3 @@ When MPC=MSC and MPB=MSB socially optimal
 
 
 
-
