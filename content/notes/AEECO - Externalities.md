@@ -72,7 +72,9 @@ Regulations can forbid the dumping of pollutants to the environment
 3. Require technologies to reduce emissions
 
 #### Taxes
-Imposinga 
+Imposing a tax on per unit of production or pollutant emission.  
+Internalise the external cost.  
+
 
 
 
