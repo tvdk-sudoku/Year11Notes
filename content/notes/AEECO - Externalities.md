@@ -63,7 +63,17 @@ When MPC=MSC and MPB=MSB socially optimal
 
 # Policy Options
 
-## Regulation/Legistat
+## Regulation/Legislation
+
+
+
+
+
+
+
+
+## Market based approaches
+
 
 
 
