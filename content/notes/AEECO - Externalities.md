@@ -62,7 +62,6 @@ When MPC=MSC and MPB=MSB socially optimal
 
 
 # Policy Options
-
 ## Regulation/Legislation
 ### Negative Production Externality
 #### Government Regulation
