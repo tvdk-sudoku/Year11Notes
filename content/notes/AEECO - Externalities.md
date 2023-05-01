@@ -65,6 +65,9 @@ When MPC=MSC and MPB=MSB socially optimal
 ## Regulation/Legislation
 ### Negative Production Externality
 #### Government Regulation
+##### XYZ
+###### ABC
+####### 
 Regulations can forbid the dumping of pollutants to the environment  
 
 1. Limit the amount of pollutions
