@@ -71,7 +71,8 @@ Regulations can forbid the dumping of pollutants to the environment
 2. Limit the quantity of output to producers
 3. Require technologies to reduce emissions
 
-
+#### Taxes
+Imposinga 
 
 
 
