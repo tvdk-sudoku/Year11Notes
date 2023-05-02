@@ -96,7 +96,10 @@ Internalise the external cost.
 
 #### Taxes
 - Impose indirect tax the size of the external cost
-- The impact of the tax is passed onto the consu
+- The impact of the tax is passed onto the consumers as a higher price they now have to burden
+- Quantity drops to $Q_o$ and price increases to $P_c$
+
+
 
 
 
