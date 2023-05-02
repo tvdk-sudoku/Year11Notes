@@ -15,7 +15,9 @@ When MPC=MSC and MPB=MSB socially optimal
 
 MPC = Production cost
 MPB = Revenue
-MEC = Pollution, etc, T
+MEC = Pollution, etc, INCLUDE TYPE OF POLLUTION
+MSC = MPC + MEC
+		= Total for society
 
 
 > [!DEFINITION] Externalities
