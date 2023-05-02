@@ -13,6 +13,10 @@ MSB (Marginal Social Benefit): Benefits to society from consuming one more unit 
 
 When MPC=MSC and MPB=MSB socially optimal
 
+MPC = Production cost
+MPB = Revenue
+MEC = Pollution, etc, T
+
 
 > [!DEFINITION] Externalities
 > Externalities occur when the production or consumption of a good/service cause external costs and/or external benefits.
