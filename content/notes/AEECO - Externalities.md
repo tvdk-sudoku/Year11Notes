@@ -94,7 +94,9 @@ Internalise the external cost.
 - Quantity lowered to $Q_o$ and price lowered to $P_o$
 
 
-
+#### Taxes
+- Impose indirect tax the size of the external cost
+- The impact of the tax is passed onto the consu
 
 
 
