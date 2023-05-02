@@ -82,12 +82,13 @@ Imposing a tax on per unit of production or pollutant emission.
 Internalise the external cost.  
 
 ### Negative Consumption Externalities
+
 - Prevents consumer activities
 - Reduce demand towards MSB
 - Quantity lowered to $Q_o$ and price lowered to $P_o$
 
 
-
+#### Advertising
 
 
 
