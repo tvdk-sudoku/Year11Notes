@@ -84,7 +84,9 @@ Internalise the external cost.
 ### Negative Consumption Externalities
 - Prevents consumer activities
 - Reduce demand towards MSB
-- Quantity lowered to Q
+- Quantity lowered to $Q_o$ and price lowered to $P_o$
+
+
 
 
 
