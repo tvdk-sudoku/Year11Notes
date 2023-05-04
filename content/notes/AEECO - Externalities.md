@@ -149,7 +149,11 @@ Internalise the external cost.
 - Subsidy $\rightarrow$ MPC towards MSC $\rightarrow \space \uparrow$ S
 
 ### Positive Consumption
-- Legislation/advertising $\rightarrow$ MPB towards MSB $\rightarrow \space \uparrow$ S
+- Legislation/advertising $\rightarrow$ MPB towards MSB $\rightarrow \space \uparrow$ C
+- Gov provision 
+- Subsidy
+
+
 
 
 
