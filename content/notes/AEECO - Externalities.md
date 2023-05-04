@@ -136,15 +136,15 @@ Internalise the external cost.
 
 ## Summary
 ### Negative Production
-- Limits on production, pollutants, change methods of productions $\rightarrow \downarrow$ S
+- Limits on production, pollutants, change methods of productions $\rightarrow \space \downarrow$ S
 - Tax $\rightarrow$ Shift MPC towards MSC
 - Size of tax = MEC
 
 ### Negative Consumption
-- Legislation/advertising $\rightarrow$ Shift MPB towards MSB
-	- $\downarrow$ D
+- Legislation/advertising $\rightarrow$ Shift MPB towards MSB $\rightarrow \space \downarrow$ D
+- Indirect tax $\rightarrow \space \downarrow$ P
 
-
+### 
 
 
 
