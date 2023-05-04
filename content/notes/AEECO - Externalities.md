@@ -144,7 +144,13 @@ Internalise the external cost.
 - Legislation/advertising $\rightarrow$ Shift MPB towards MSB $\rightarrow \space \downarrow$ D
 - Indirect tax $\rightarrow \space \downarrow$ P
 
-### 
+### Positive Production
+- Direct gov provision $\rightarrow$ MPC towards MSC $\rightarrow \space \uparrow$ S
+
+
+
+
+
 
 
 
