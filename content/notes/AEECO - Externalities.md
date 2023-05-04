@@ -99,7 +99,7 @@ Internalise the external cost.
 - Quantity drops to $Q_o$ and price increases to $P_c$
 
 
-
+## Positive  Externalities
 
 
 
