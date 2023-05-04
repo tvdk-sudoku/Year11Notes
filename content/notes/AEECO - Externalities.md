@@ -107,7 +107,9 @@ Internalise the external cost.
 
 
 ### Subsidies
-- Government can provide subsides
+- Government can provide subsides the size of the external benefit (internalize)
+- MSC=MPC + subsidy
+-  Quantity increases to $Q_o$ and price decreases to $P_o$
 
 
 
