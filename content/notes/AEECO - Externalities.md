@@ -116,8 +116,11 @@ Internalise the external cost.
 ### Legislation/Advertising
 - Legislation:
 	- Used to increase consumption
-	- E.g Putting compulsory ages to education
-- A
+	- E.g. Putting compulsory ages to education
+- Advertising:
+	- Used to increase consumption
+	- E.g. Public advertising for education
+- Demand increas
 
 
 
