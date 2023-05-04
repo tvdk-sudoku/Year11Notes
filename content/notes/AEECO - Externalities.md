@@ -102,7 +102,9 @@ Internalise the external cost.
 ## Positive Production Externalities
 ### Government Regulations
 - Direct government provision:
-	- Coming out o
+	- Coming out of government funds
+- MPC shifts towards MSC
+- Quantity increases to $Q_o$ and price decreases to $P_o$
 
 
 
