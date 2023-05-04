@@ -137,7 +137,12 @@ Internalise the external cost.
 ## Summary
 ### Negative Production
 - Limits on production, pollutants, change methods of productions
-	- Decrease 
+	- Decrease S
+- Tax $\rightarrow$ Shift MPC towards MSC
+- Size of tax = MEC
+
+### Negative Consumption
+- Legislation/advertising 
 
 
 
