@@ -112,7 +112,7 @@ Internalise the external cost.
 -  Quantity increases to $Q_o$ and price decreases to $P_o$
 
 
-
+## Positive Consump
 
 
 
