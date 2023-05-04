@@ -126,7 +126,8 @@ Internalise the external cost.
 ### Government Provision
 - Direct provision to increase consumption
 	- E.g. Education and healthcare
-- Supply increases the size of government provisio
+- Supply increases the size of government provision
+- Quantity decreases to $Q_o$ and price decreases to $P_o$
 
 
 
