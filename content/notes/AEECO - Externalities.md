@@ -68,8 +68,7 @@ MSC = MPC + MEC
 
 
 # Policy Options
-## Regulation/Legislation
-### Negative Production Externality
+## Negative Production Externality
 #### Government Regulation
 Regulations can forbid the dumping of pollutants to the environment  
 
@@ -104,7 +103,6 @@ Internalise the external cost.
 
 
 
-## Market based approaches
 
 
 
