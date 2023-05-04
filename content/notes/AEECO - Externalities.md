@@ -120,7 +120,8 @@ Internalise the external cost.
 - Advertising:
 	- Used to increase consumption
 	- E.g. Public advertising for education
-- Demand increas
+- Demand increases from MPB to MSB
+- Quantity increases to $Q_o$ and price increases to $P_o$
 
 
 
