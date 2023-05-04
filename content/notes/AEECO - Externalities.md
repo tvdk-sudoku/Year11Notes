@@ -91,7 +91,6 @@ Internalise the external cost.
 - Reduce demand towards MSB
 - Quantity lowered to $Q_o$ and price lowered to $P_o$
 
-
 ### Taxes
 - Impose indirect tax the size of the external cost
 - The impact of the tax is passed onto the consumers as a higher price they now have to burden
@@ -104,7 +103,6 @@ Internalise the external cost.
 	- Coming out of government funds
 - MPC shifts towards MSC
 - Quantity increases to $Q_o$ and price decreases to $P_o$
-
 
 ### Subsidies
 - Government can provide subsides the size of the external benefit (internalize)
@@ -129,8 +127,8 @@ Internalise the external cost.
 - Supply increases the size of government provision
 - Quantity decreases to $Q_o$ and price decreases to $P_o$
 
-
-
+### Subsidies
+- Governments can provide subsidies to producers to lowe
 
 
 
