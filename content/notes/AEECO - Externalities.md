@@ -99,8 +99,10 @@ Internalise the external cost.
 - Quantity drops to $Q_o$ and price increases to $P_c$
 
 
-## Positive  Externalities
-
+## Positive Production Externalities
+### Government Regulations
+- Direct government provision:
+	- Coming out o
 
 
 
