@@ -86,7 +86,6 @@ Internalise the external cost.
 - Reduce demand towards MSB
 - Quantity lowered to $Q_o$ and price lowered to $P_o$
 
-
 ### Advertising
 - Prevents consumer activities
 - Reduce demand towards MSB
@@ -107,7 +106,8 @@ Internalise the external cost.
 - Quantity increases to $Q_o$ and price decreases to $P_o$
 
 
-
+### Subsidies
+- Government can provide subsides
 
 
 
