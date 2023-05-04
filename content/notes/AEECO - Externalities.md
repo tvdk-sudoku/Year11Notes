@@ -134,7 +134,10 @@ Internalise the external cost.
 
 
 
-## S
+## Summary
+### Negative Production
+- Limits on production, pollutants, change methods of productions
+	- Decrease 
 
 
 
