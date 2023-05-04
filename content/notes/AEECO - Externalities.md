@@ -112,7 +112,12 @@ Internalise the external cost.
 -  Quantity increases to $Q_o$ and price decreases to $P_o$
 
 
-## Positive Consump
+## Positive Consumption Externalities
+### Legislation/Advertising
+- Legislation:
+	- Used to increase consumption
+	- E.g Putting compulsory ages to education
+- A
 
 
 
