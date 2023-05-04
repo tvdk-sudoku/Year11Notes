@@ -125,12 +125,12 @@ Internalise the external cost.
 - Direct provision to increase consumption
 	- E.g. Education and healthcare
 - Supply increases the size of government provision
-- Quantity decreases to $Q_o$ and price decreases to $P_o$
+- Quantity decreases to $Q_o$ and price decreases to $P_c$
 
 ### Subsidies
 - Governments can provide subsidies to producers to lower the cost and hence lower the price for consumers
 - Subsidy used to internalize the external benefit
-- Quantity increases to $Q_o$ and price decreases to $P_o$
+- Quantity increases to $Q_o$ and price decreases to $P_c$
 
 
 
