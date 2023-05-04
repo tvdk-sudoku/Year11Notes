@@ -123,6 +123,10 @@ Internalise the external cost.
 - Demand increases from MPB to MSB
 - Quantity increases to $Q_o$ and price increases to $P_o$
 
+### Government Provision
+- Direct provision to increase consumption
+	- E.g. Education and healthcare
+- Supply increases the size of government provisio
 
 
 
