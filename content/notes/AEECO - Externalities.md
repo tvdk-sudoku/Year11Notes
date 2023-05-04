@@ -128,7 +128,9 @@ Internalise the external cost.
 - Quantity decreases to $Q_o$ and price decreases to $P_o$
 
 ### Subsidies
-- Governments can provide subsidies to producers to lowe
+- Governments can provide subsidies to producers to lower the cost and hence lower the price for consumers
+- Subsidy used to internalize the external benefit
+- Quantity increases to $Q_o$ and price decreases to $P_o$
 
 
 
