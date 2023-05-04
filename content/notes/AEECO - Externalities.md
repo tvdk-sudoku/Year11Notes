@@ -69,31 +69,31 @@ MSC = MPC + MEC
 
 # Policy Options
 ## Negative Production Externality
-#### Government Regulation
+### Government Regulation
 Regulations can forbid the dumping of pollutants to the environment  
 
 1. Limit the amount of pollutions
 2. Limit the quantity of output to producers
 3. Require technologies to reduce emissions
 
-#### Taxes
+### Taxes
 Imposing a tax on per unit of production or pollutant emission.  
 Internalise the external cost.  
 
-### Negative Consumption Externalities
-#### Government Regulations
+## Negative Consumption Externalities
+### Government Regulations
 - Prevents consumer activities
 - Reduce demand towards MSB
 - Quantity lowered to $Q_o$ and price lowered to $P_o$
 
 
-#### Advertising
+### Advertising
 - Prevents consumer activities
 - Reduce demand towards MSB
 - Quantity lowered to $Q_o$ and price lowered to $P_o$
 
 
-#### Taxes
+### Taxes
 - Impose indirect tax the size of the external cost
 - The impact of the tax is passed onto the consumers as a higher price they now have to burden
 - Quantity drops to $Q_o$ and price increases to $P_c$
