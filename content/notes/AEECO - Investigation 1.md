@@ -34,3 +34,21 @@ Some positive externalities in the oil and gas industry include
 
 
 
+
+
+## References
+Research-Methodology. (2012, December). _Externalities involved in the fuel market - Research Methodology_. Research-Methodology. https://research-methodology.net/externalities-involved-in-the-fuel-market-2/
+
+‌
+
+
+
+
+
+
+
+
+
+
+
+
