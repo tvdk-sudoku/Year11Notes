@@ -38,11 +38,11 @@ Some positive externalities in the oil and gas industry include
 
 ## References
 Research-Methodology. (2012, December). _Externalities involved in the fuel market - Research Methodology_. Research-Methodology. https://research-methodology.net/externalities-involved-in-the-fuel-market-2/  
-‌_Value- adding: Australian Oil and Gas Industry_. (2014). https://www.appea.com.au/wp-content/uploads/2014/11/PwC-Report-Oil-and-Gas-Industry-Sept-2014-FINAL.pdf  
+‌*Value- adding: Australian Oil and Gas Industry*. (2014). https://www.appea.com.au/wp-content/uploads/2014/11/PwC-Report-Oil-and-Gas-Industry-Sept-2014-FINAL.pdf  
 
 ‌
 
-__
+
 
 
 
