@@ -10,7 +10,8 @@ Externalities are costs or benefits that are not reflected in the market price o
 
 
 #### Positive Externalities
-Some positive externalities in the oil and gas industry include 
+Some positive externalities in the oil and gas industry include economics benefits, increased productivity and means of globalisation.  
+
 
 
 
