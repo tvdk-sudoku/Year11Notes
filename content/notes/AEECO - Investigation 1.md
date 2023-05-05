@@ -13,7 +13,7 @@ Externalities are costs or benefits that are not reflected in the market price o
 Some positive externalities in the oil and gas industry include economics benefits, increased productivity and means of globalisation.  
 
 **Economic Benefits**  
-Economics benefits of the oil and gas market in Australia include increased employment and 
+Economics benefits of the oil and gas market in Australia include increased employment and business activity. In Australia, the oil and gas market   
 
 
 
