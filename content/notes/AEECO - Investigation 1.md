@@ -17,7 +17,7 @@ Some positive externalities in the oil and gas industry include economics benefi
 Economics benefits of the oil and gas market in Australia include increased employment and business activity. In 2017, the oil and gas market in Australia added 18 thousand jobs to the economy.   
   
 **Increased Productivity**
-The use of oil and gas increases pr
+The use of oil and gas increases productivity in other industries. 
 
 
 
