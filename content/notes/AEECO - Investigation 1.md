@@ -9,7 +9,8 @@ Externalities are costs or benefits that are not reflected in the market price o
 
 
 #### Negative Externalities
-
+**Environmental Damage**  
+There is environment damage associated with the oil and gas industry
 
 
 
