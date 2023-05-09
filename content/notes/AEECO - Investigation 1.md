@@ -49,7 +49,9 @@ The Environmental Externality Costs of Petroleum (1994). https://afdc.energy.gov
 _Negative externality - Energy Education_. (2018). Energyeducation.ca. https://energyeducation.ca/encyclopedia/Negative_externality
 Regoniel, P. A. (2013). _Supporting Fishers in the Face of an Oil Spill: Exploring Alternative Livelihood Options_. Simplyeducate.me. https://simplyeducate.me/2013/08/30/list-of-negative-and-positive-externalities-of-oil-spill/
 Boyce, J. (n.d.). _Externality Regulation in Oil and Gas_. https://econ.ucalgary.ca/manageprofile/sites/econ.ucalgary.ca.manageprofile/files/unitis/publications/162-53112/Boyce+Externality+Regulation+in+Oil+and+Gas.pdf
+and, E. (2021). _Fact Sheet | Climate, Environmental, and Health Impacts of Fossil Fuels (2021) | White Papers | EESI_. Eesi.org. https://www.eesi.org/papers/view/fact-sheet-climate-environmental-and-health-impacts-of-fossil-fuels-2021
 
+‌
 ‌
 
 ‌
