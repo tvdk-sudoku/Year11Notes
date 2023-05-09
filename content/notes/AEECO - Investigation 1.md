@@ -47,7 +47,12 @@ Soyer, M., Kaminski, K., & Ziyanak, S. (2020). Socio-Psychological Impacts of Hy
 Obuah, E. E., & Keke, R. C. (2022). Mitigating the Negative Externalities of Oil Drilling Activities. _OALib_, _09_(05), 1–21. https://doi.org/10.4236/oalib.1108629
 The Environmental Externality Costs of Petroleum (1994). https://afdc.energy.gov/files/pdfs/2743.pdf
 _Negative externality - Energy Education_. (2018). Energyeducation.ca. https://energyeducation.ca/encyclopedia/Negative_externality
+Regoniel, P. A. (2013). _Supporting Fishers in the Face of an Oil Spill: Exploring Alternative Livelihood Options_. Simplyeducate.me. https://simplyeducate.me/2013/08/30/list-of-negative-and-positive-externalities-of-oil-spill/
+Boyce, J. (n.d.). _Externality Regulation in Oil and Gas_. https://econ.ucalgary.ca/manageprofile/sites/econ.ucalgary.ca.manageprofile/files/unitis/publications/162-53112/Boyce+Externality+Regulation+in+Oil+and+Gas.pdf
 
+‌
+
+‌
 ‌
 ‌
 ‌
