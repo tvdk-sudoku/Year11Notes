@@ -16,8 +16,25 @@ title: Investigation 1
 - Or a number of other negative results.
 
 
-**Environmental Damage**  
-There is environment damage associated with the oil and gas industry
+**Oil Spills**
+#### NEGATIVE EXTERNALITIES OF OIL SPILL
+
+1.  Fishing opportunities for thousands of fisherfolk lost due to mangrove contamination
+    
+    ![dead fish](https://simplyeducate.me//wp-content/uploads/2013/08/deadfish.png "List of Negative and Positive Externalities of Oil Spill 1")
+    
+2.  Reduced marine productivity due to disruption of the food chain
+3.  Opportunity cost due to government dispatch of ships and aircraft to conduct clean-up operations
+4.  Loss of marine and coastal wildlife (e.g. fish, birds, turtles, sea snakes, mammals)
+5.  Loss of tourism revenue (affects surfers, beach goers, sports fishing, SCUBA diving)
+6.  Loss of ecological function of marshlands and mud flats
+7.  Lost income for tourism industries
+8.  Decline in aquaculture production (e.g. seaweed farms, fish cages, shellfish beds)
+9.  Oil price hike due to lost oil production
+10.  Health costs for those engaged in clean-up operations
+
+#### PO
+
 
 
 
