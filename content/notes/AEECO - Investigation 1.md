@@ -9,11 +9,11 @@ title: Investigation 1
 
 
 #### Negative Externalities
--   The release of large amounts of [CO2](https://energyeducation.ca/encyclopedia/Carbon_dioxide "Carbon dioxide") which contribute substantially to climate change in a number of ways. Climate change has quite a few costs that are paid by people in general.
--   More respiratory illnesses leading to higher medical costs to the state from the pollutants (as opposed to the CO2 release which doesn't tend to directly cause these problems)
--   Increased [acid rain](https://energyeducation.ca/encyclopedia/Acid_rain "Acid rain") and its effects on water systems (due to pollutants).
--   The release of mercury and its effect on wildlife (both bioaccumulation and biomagnification).
--   Or a number of other negative results.
+- The release of large amounts of CO2 which contribute substantially to climate change in a number of ways. Climate change has quite a few costs that are paid by people in general.
+- More respiratory illnesses leading to higher medical costs to the state from the pollutants (as opposed to the CO2 release which doesn't tend to directly cause these problems)
+- Increased acid rain and its effects on water systems (due to pollutants).
+- The release of mercury and its effect on wildlife (both bioaccumulation and biomagnification).
+- Or a number of other negative results.
 
 
 **Environmental Damage**  
