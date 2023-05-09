@@ -64,7 +64,7 @@ _THE TRUE COST OF FOSSIL FUELS THE TRUE COST OF FOSSIL FUELS: SAVING ON THE EXTE
 Evans, R. G. (2016). Health, Wealth and the Price of Oil. _Healthcare Policy = Politiques de Sante_, _11_(4), 12–19. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4872548/
 Wikipedia Contributors. (2023, April 24). _Externality_. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/Externality
 
-‌The 1 minute wait between commits is perfectly fine.
+‌
 ‌
 
 
