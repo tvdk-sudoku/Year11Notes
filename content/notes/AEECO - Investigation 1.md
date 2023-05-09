@@ -37,7 +37,9 @@ _Topic: Oil and gas industry in Australia_. (2022). Statista; Statista. https://
 _Australia: employment in oil and gas industry 2021 | Statista_. (2021). Statista; Statista. https://www.statista.com/statistics/692178/australia-employment-in-oil-and-gas-industry/  
 Kato Gogo Kingston. (2018, August 30). _The Negative Externalities Of Crude Oil Production: Unfolding The Coase-Kingston Social And Legal..._ ResearchGate; unknown. https://www.researchgate.net/publication/339663337_The_Negative_Externalities_Of_Crude_Oil_Production_Unfolding_The_Coase-Kingston_Social_And_Legal_Efficiency_Model
 Soyer, M., Kaminski, K., & Ziyanak, S. (2020). Socio-Psychological Impacts of Hydraulic Fracturing on Community Health and Well-Being. _International Journal of Environmental Research and Public Health_, _17_(4), 1186. https://doi.org/10.3390/ijerph17041186
+Obuah, E. E., & Keke, R. C. (2022). Mitigating the Negative Externalities of Oil Drilling Activities. _OALib_, _09_(05), 1–21. https://doi.org/10.4236/oalib.1108629
 
+‌
 ‌
 ‌
 ‌
