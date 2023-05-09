@@ -5,8 +5,8 @@ title: Investigation 1
 # Notes
 ## Part A
 ### Negative Production Externalities
-- The release of large amounts of CO2 which contribute substantially to climate change in a number of ways. Climate change has quite a few costs that are paid by people in general.
-- More respiratory illnesses leading to higher medical costs to the state from the pollutants (as opposed to the CO2 release which doesn't tend to directly cause these problems)
+- The release of large amounts of CO$_2$ which contribute substantially to climate change in a number of ways. Climate change has quite a few costs that are paid by people in general.
+- More respiratory illnesses leading to higher medical costs to the state from the pollutants (as opposed to the CO$_2$ release which doesn't tend to directly cause these problems)
 - Increased acid rain and its effects on water systems (due to pollutants).
 - The release of mercury and its effect on wildlife (both bioaccumulation and biomagnification).
 - Or a number of other negative results.
@@ -28,7 +28,7 @@ title: Investigation 1
 10. Health costs for those engaged in clean-up operations
 
 #### Burning of Oil and Gas
-- Increases CO$
+- Increases CO$_2$ lev
 
 
 
