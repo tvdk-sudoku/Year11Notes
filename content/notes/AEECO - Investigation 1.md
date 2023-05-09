@@ -65,9 +65,6 @@ Evans, R. G. (2016). Health, Wealth and the Price of Oil. _Healthcare Policy = 
 Wikipedia Contributors. (2023, April 24). _Externality_. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/Externality
 
 ‌
-```Python
-a = input()
-```
 ‌
 
 
