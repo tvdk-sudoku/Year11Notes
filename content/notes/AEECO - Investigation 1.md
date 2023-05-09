@@ -4,11 +4,7 @@ title: Investigation 1
 
 # Notes
 ## Part A
-### Externalities
-
-
-
-#### Negative Externalities
+### Negative Production Externalities
 - The release of large amounts of CO2 which contribute substantially to climate change in a number of ways. Climate change has quite a few costs that are paid by people in general.
 - More respiratory illnesses leading to higher medical costs to the state from the pollutants (as opposed to the CO2 release which doesn't tend to directly cause these problems)
 - Increased acid rain and its effects on water systems (due to pollutants).
@@ -16,7 +12,7 @@ title: Investigation 1
 - Or a number of other negative results.
 
 
-**Oil Spills**
+#### Oil Spills
 1. Fishing opportunities for thousands of fisherfolk lost due to mangrove contamination
 2. Reduced marine productivity due to disruption of the food chain
 3. Opportunity cost due to government dispatch of ships and aircraft to conduct clean-up operations
