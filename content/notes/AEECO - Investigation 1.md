@@ -61,7 +61,7 @@ Regoniel, P. A. (2013). _Supporting Fishers in the Face of an Oil Spill: Explor
 Boyce, J. (n.d.). _Externality Regulation in Oil and Gas_. https://econ.ucalgary.ca/manageprofile/sites/econ.ucalgary.ca.manageprofile/files/unitis/publications/162-53112/Boyce+Externality+Regulation+in+Oil+and+Gas.pdf
 and, E. (2021). _Fact Sheet | Climate, Environmental, and Health Impacts of Fossil Fuels (2021) | White Papers | EESI_. Eesi.org. https://www.eesi.org/papers/view/fact-sheet-climate-environmental-and-health-impacts-of-fossil-fuels-2021
 _THE TRUE COST OF FOSSIL FUELS THE TRUE COST OF FOSSIL FUELS: SAVING ON THE EXTERNALITIES OF AIR POLLUTION AND CLIMATE CHANGE A Renewable Energy Roadmap_. (n.d.). https://www.irena.org/-/media/files/irena/agency/publication/2016/irena_remap_externality_brief_2016.pdf
-Evans, R. G. (2016). Health, Wealth and the Price of Oil. _Healthcare Policy = Politiques de Sante_, _11_(4), 12–19. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4872548/
+Evans, R. G. (2016). Health, Wealth and the Price of Oil. _Healthcare Policy = Politiques de Santi_, _11_(4), 12–19. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4872548/
 Wikipedia Contributors. (2023, April 24). _Externality_. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/Externality
 
 ‌
