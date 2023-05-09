@@ -10,6 +10,9 @@ title: Investigation 1
 - Increased acid rain and its effects on water systems (due to pollutants).
 - The release of mercury and its effect on wildlife (both bioaccumulation and biomagnification).
 - Or a number of other negative results.
+- Air pollution from burning fossil fuels. This activity causes damages to crops, materials and (historic) buildings and public health.[[20]](https://en.wikipedia.org/wiki/Externality#cite_note-20)[[21]](https://en.wikipedia.org/wiki/Externality#cite_note-21)
+-   [Anthropogenic climate change](https://en.wikipedia.org/wiki/Anthropogenic_climate_change "Anthropogenic climate change") as a consequence of [greenhouse gas emissions](https://en.wikipedia.org/wiki/Greenhouse_gas_emissions "Greenhouse gas emissions") from the burning of fossil fuels
+
 
 
 #### Oil Spills
