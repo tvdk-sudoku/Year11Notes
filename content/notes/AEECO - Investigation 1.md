@@ -28,7 +28,7 @@ title: Investigation 1
 10. Health costs for those engaged in clean-up operations
 
 #### Burning of Oil and Gas
-
+- Increases CO$
 
 
 
