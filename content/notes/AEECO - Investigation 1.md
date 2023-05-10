@@ -52,7 +52,7 @@ title: Investigation 1
 
 
 ## Part B
-### Regulation/Legislation
+### Measures to Address Market Failure
 
 
 
