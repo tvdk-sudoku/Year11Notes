@@ -21,6 +21,7 @@ title: Investigation 1
 	- Many types of cancer
 	- Cardiovascular problems
 	- Neurologic and hematological problems
+	- Workers have a high risk of sil
 
 #### Environmental Damage
 ##### Oil Spills
