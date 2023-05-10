@@ -73,7 +73,9 @@ and, E. (2021). _Fact Sheet | Climate, Environmental, and Health Impacts of Fos
 _THE TRUE COST OF FOSSIL FUELS THE TRUE COST OF FOSSIL FUELS: SAVING ON THE EXTERNALITIES OF AIR POLLUTION AND CLIMATE CHANGE A Renewable Energy Roadmap_. (n.d.). https://www.irena.org/-/media/files/irena/agency/publication/2016/irena_remap_externality_brief_2016.pdf
 Evans, R. G. (2016). Health, Wealth and the Price of Oil. _Healthcare Policy = Politiques de Santi_, _11_(4), 12–19. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4872548/
 Wikipedia Contributors. (2023, April 24). _Externality_. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/Externality
+_THE HIDDEN COSTS OF ELECTRICITy: Externalities of Power Generation in Australia_. (n.d.). https://www.atse.org.au/wp-content/uploads/2019/01/the-hidden-costs-of-electricity.pdf
 
+‌
 ‌
 ‌
 
