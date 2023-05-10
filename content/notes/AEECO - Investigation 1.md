@@ -24,6 +24,11 @@ title: Investigation 1
 	- Hydraulic oil fracking workers have high levels of silica
 
 #### Environmental Damage
+##### Extraction
+- Hydraulic oil fracking workers have high levels of silica
+- Can cause oil spills
+
+
 ##### Oil Spills
 - Fishing opportunities for thousands of fisherfolk lost due to mangrove contamination
 - Reduced marine productivity due to disruption of the food chain
@@ -35,10 +40,6 @@ title: Investigation 1
 - Decline in aquaculture production (e.g. seaweed farms, fish cages, shellfish beds)
 - Oil price hike due to lost oil production
 - Health costs for those engaged in clean-up operations
-
-##### Extraction
-- Hydraulic oil fracking workers have high levels of silica
-- 
 
 
 
