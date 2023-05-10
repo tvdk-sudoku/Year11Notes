@@ -19,7 +19,8 @@ title: Investigation 1
 - The extraction of oil has many adverse health affects on workers and nearby residents
 - Increased risk of:
 	- Many types of cancer
-	- 
+	- Cardiovascular problems
+	- Neurologic and hematological problems
 
 #### Environmental Damage
 ##### Oil Spills
