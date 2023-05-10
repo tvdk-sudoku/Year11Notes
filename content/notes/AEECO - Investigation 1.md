@@ -27,9 +27,6 @@ title: Investigation 1
 9. Oil price hike due to lost oil production
 10. Health costs for those engaged in clean-up operations
 
-#### Burning of Oil and Gas
-- Increases CO$_2$ levels in the atmosphere
-- 
 
 
 
