@@ -16,7 +16,8 @@ title: Investigation 1
 
 
 #### Health Risks
-
+- The extraction of oil has many adverse health affects
+- 
 
 
 #### Environmental Damage
