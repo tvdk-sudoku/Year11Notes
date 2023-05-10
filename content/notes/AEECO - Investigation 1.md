@@ -32,7 +32,7 @@ title: Investigation 1
 - Oil price hike due to lost oil production
 - Health costs for those engaged in clean-up operations
 
-
+##### Extraction
 
 
 
