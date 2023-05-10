@@ -21,7 +21,7 @@ title: Investigation 1
 	- Many types of cancer
 	- Cardiovascular problems
 	- Neurologic and hematological problems
-	- Workers have a high risk of sil
+	- Hydraulic oil fracking workers have high levels of silica
 
 #### Environmental Damage
 ##### Oil Spills
@@ -37,7 +37,8 @@ title: Investigation 1
 - Health costs for those engaged in clean-up operations
 
 ##### Extraction
-
+- Hydraulic oil fracking workers have high levels of silica
+- 
 
 
 
