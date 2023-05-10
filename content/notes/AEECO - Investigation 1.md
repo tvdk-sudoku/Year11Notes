@@ -14,18 +14,18 @@ title: Investigation 1
 - Anthropogenic climate change as a consequence of greenhouse gas emissions from the burning of fossil fuels
 
 
-
-#### Oil Spills
-1. Fishing opportunities for thousands of fisherfolk lost due to mangrove contamination
-2. Reduced marine productivity due to disruption of the food chain
-3. Opportunity cost due to government dispatch of ships and aircraft to conduct clean-up operations
-4. Loss of marine and coastal wildlife (e.g. fish, birds, turtles, sea snakes, mammals)
-5. Loss of tourism revenue (affects surfers, beach goers, sports fishing, SCUBA diving)
-6. Loss of ecological function of marshlands and mud flats
-7. Lost income for tourism industries
-8. Decline in aquaculture production (e.g. seaweed farms, fish cages, shellfish beds)
-9. Oil price hike due to lost oil production
-10. Health costs for those engaged in clean-up operations
+En
+##### Oil Spills
+- Fishing opportunities for thousands of fisherfolk lost due to mangrove contamination
+- Reduced marine productivity due to disruption of the food chain
+- Opportunity cost due to government dispatch of ships and aircraft to conduct clean-up operations
+- Loss of marine and coastal wildlife (e.g. fish, birds, turtles, sea snakes, mammals)
+- Loss of tourism revenue (affects surfers, beach goers, sports fishing, SCUBA diving)
+- Loss of ecological function of marshlands and mud flats
+- Lost income for tourism industries
+- Decline in aquaculture production (e.g. seaweed farms, fish cages, shellfish beds)
+- Oil price hike due to lost oil production
+- Health costs for those engaged in clean-up operations
 
 
 
