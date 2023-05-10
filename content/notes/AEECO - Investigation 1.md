@@ -76,7 +76,9 @@ _THE TRUE COST OF FOSSIL FUELS THE TRUE COST OF FOSSIL FUELS: SAVING ON THE EXTE
 Evans, R. G. (2016). Health, Wealth and the Price of Oil. _Healthcare Policy = Politiques de Santi_, _11_(4), 12–19. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4872548/
 Wikipedia Contributors. (2023, April 24). _Externality_. Wikipedia; Wikimedia Foundation. https://en.wikipedia.org/wiki/Externality
 _THE HIDDEN COSTS OF ELECTRICITy: Externalities of Power Generation in Australia_. (n.d.). https://www.atse.org.au/wp-content/uploads/2019/01/the-hidden-costs-of-electricity.pdf
+Johnston, J. E., Lim, E., & Roh, H. (2019). Impact of upstream oil extraction and environmental public health: A review of the evidence. _Science of the Total Environment_, _657_, 187–199. https://doi.org/10.1016/j.scitotenv.2018.11.483
 
+‌
 ‌
 ‌
 ‌
