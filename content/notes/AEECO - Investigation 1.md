@@ -58,6 +58,8 @@ title: Investigation 1
 #### Government Regulation
 - Limiting the pollutant emissions by producers
 
+- Can be done by creating laws to set a limit to the 
+
 
 
 
