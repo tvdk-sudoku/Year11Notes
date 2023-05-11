@@ -42,7 +42,7 @@ title: Investigation 1
 - Health costs for those engaged in clean-up operations
 
 ##### Burning Of Oil and Gas
-- 
+- In Australia, in the 2022 calendar year, 535.7 million tonnes of  
 
 
 
