@@ -68,7 +68,8 @@ title: Investigation 1
 #### Taxation
 - Imposing a tax on pollution emitted
 
-- A tax can be imposed to 
+- A tax can be imposed to reduce the MSC
+- Th
 
 
 
