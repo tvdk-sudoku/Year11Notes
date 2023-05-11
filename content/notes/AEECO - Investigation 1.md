@@ -70,12 +70,11 @@ title: Investigation 1
 - A tax can be imposed to reduce the MSC
 - This internalises the external cost
 - Quantity lowers but price increases
-  
-  
-  
-  
-  
-  
+
+<br><br><br><br><br><br>
+
+
+
 
 
 ## References
