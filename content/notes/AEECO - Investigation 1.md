@@ -61,8 +61,11 @@ title: Investigation 1
 
 
 
+
+
+
 #### Taxation
-- Imposing a tax on the 
+- Imposing a tax on pollution emitted
 
 
 
