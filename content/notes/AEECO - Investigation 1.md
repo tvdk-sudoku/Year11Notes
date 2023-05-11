@@ -1,8 +1,6 @@
 ---
 title: Investigation 1
 ---
-
-# Notes
 ## Part A
 ### Negative Production Externalities
 - The release of large amounts of CO$_2$ which contribute substantially to climate change in a number of ways. Climate change has quite a few costs that are paid by people in general.
@@ -12,7 +10,7 @@ title: Investigation 1
 - Or a number of other negative results.
 - Air pollution from burning fossil fuels. This activity causes damages to crops, materials and (historic) buildings and public health.
 - Anthropogenic climate change as a consequence of greenhouse gas emissions from the burning of fossil fuels
-- Natural gas has a external cost of $A19/MWh (_THE HIDDEN COSTS of ELECTRICITY: Externalities of Power Generation in Australia_, n.d.) 
+- Natural gas has a external cost of $A19/MWh (_THE HIDDEN COSTS of ELECTRICITY: Externalities of Power Generation in Australia_, n.d.) when accounting for 
 
 
 #### Health Risks
