@@ -69,7 +69,7 @@ title: Investigation 1
 - Imposing a tax on pollution emitted
 
 - A tax can be imposed to reduce the MSC
-- Th
+- This internalises the external cost
 
 
 
