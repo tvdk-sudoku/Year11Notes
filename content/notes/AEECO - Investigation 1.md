@@ -62,7 +62,7 @@ title: Investigation 1
 
 
 #### Taxation
-- Imposing a taxation 
+- Imposing a tax on the 
 
 
 
