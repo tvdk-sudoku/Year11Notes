@@ -56,13 +56,13 @@ title: Investigation 1
 ## Part B
 ### Measures to Address Market Failure
 #### Government Regulation
+- Limiting the pollutant emissions by producers
 
 
 
 
-
-#### Legislation
-
+#### Taxation
+- Imposing a taxation 
 
 
 
