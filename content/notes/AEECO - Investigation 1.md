@@ -59,6 +59,7 @@ title: Investigation 1
 - Can be done by creating laws to set a limit to the pollution emissions
 - This reduces the pollution emitted, therefor reducing the negative externalities in the oil and gas industry
 - This also reduces the quantity of oil and gas supplied which increases market efficiency
+- Quantity lowers and price lowers
 
 
 
@@ -67,9 +68,10 @@ title: Investigation 1
 
 #### Taxation
 - Imposing a tax on pollution emitted
-
+  
 - A tax can be imposed to reduce the MSC
 - This internalises the external cost
+- Quantity lowers but price increases
 
 
 
