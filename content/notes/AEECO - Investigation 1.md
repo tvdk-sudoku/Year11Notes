@@ -10,7 +10,7 @@ title: Investigation 1
 - Or a number of other negative results.
 - Air pollution from burning fossil fuels. This activity causes damages to crops, materials and (historic) buildings and public health.
 - Anthropogenic climate change as a consequence of greenhouse gas emissions from the burning of fossil fuels
-- Natural gas has a external cost of $A19/MWh (_THE HIDDEN COSTS of ELECTRICITY: Externalities of Power Generation in Australia_, n.d.) when accounting for 
+- Natural gas has a external cost of $A19/MWh (_THE HIDDEN COSTS of ELECTRICITY: Externalities of Power Generation in Australia_, n.d.) when accounting for impacts such as health risks and environmental affects
 
 
 #### Health Risks
