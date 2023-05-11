@@ -58,7 +58,7 @@ title: Investigation 1
 
 - Can be done by creating laws to set a limit to the pollution emissions
 - This reduces the pollution emitted, therefor reducing the negative externalities in the oil and gas industry
-- This also reduces the quantity of oil and gas supplied which 
+- This also reduces the quantity of oil and gas supplied which increases market efficiency
 
 
 
@@ -68,7 +68,7 @@ title: Investigation 1
 #### Taxation
 - Imposing a tax on pollution emitted
 
-- A tax can be imposed 
+- A tax can be imposed to 
 
 
 
