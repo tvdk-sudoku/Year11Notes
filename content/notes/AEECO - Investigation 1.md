@@ -41,7 +41,7 @@ title: Investigation 1
 
 ##### Burning Of Oil and Gas
 - In Australia, in the 2022 calendar year, 535.7 million tonnes of carbon dioxide was released into the atmosphere
-- 
+
 
 
 
@@ -58,7 +58,7 @@ title: Investigation 1
 
 - Can be done by creating laws to set a limit to the pollution emissions
 - This reduces the pollution emitted, therefor reducing the negative externalities in the oil and gas industry
-
+- This also reduces the quantity of oil and gas supplied which 
 
 
 
@@ -68,7 +68,7 @@ title: Investigation 1
 #### Taxation
 - Imposing a tax on pollution emitted
 
-
+- A tax can be imposed 
 
 
 
