@@ -31,7 +31,8 @@ title: Market Power
 - Information is imperfect
 - Firms are price setters
 - E.g. Phones, computes
-- 
+
+### 
 
 
 
