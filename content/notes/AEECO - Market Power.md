@@ -24,7 +24,14 @@ title: Market Power
 	- Engage in strategic behaviours
 - E.g. Supermarkets, Telecommunications
 
-### 
+### Monopolistic Competition
+- Many firms
+- Differentiated products, but close substitutes
+- Low barriers to entry
+- Information is imperfect
+- Firms are price setters
+- E.g. Phones, computes
+- 
 
 
 
