@@ -35,8 +35,10 @@ title: Market Power
 
 ### Barriers to Entry
 #### Economies of Scale
-- P
-
+- Permitting lower average costs to be achieved as the firm increases its size
+  
+- Average total costs of a large firm are substantially lower the the average costs faced by a smaller firm
+- Large firm 
 
 
 
