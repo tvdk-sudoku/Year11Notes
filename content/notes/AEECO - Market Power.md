@@ -53,15 +53,15 @@ title: Market Power
 - Are agreements or arrangements between firms that seek to restrain competition and remove the automatic regulation that competitive markets achieve
 
 ##### Illegal Practices
-- Cartel
+- Cartel: When firms agree to act or collude together instead of competing with each other
 - Collusion
 - Market Sharing
 - Collusive Tendering
 - Predatory Pricing
 - Resale Price Maintenance
 - Exclusive Dealing
-- Collective Boycott
-- Merger
+- Collective Boycott:
+- Merger: Two or more firms join together to form one larger firm - prohibited if it substantially reduces competition in the market
   
   
 ### Barriers to Entry (Legal)
