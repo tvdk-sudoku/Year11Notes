@@ -22,7 +22,12 @@ title: Market Power
 - Barriers to entry exist
 - Sellers are interdependent:
 	- Engage in strategic behaviours
-- 
+- E.g. Supermarkets, Telecommunications
+
+### 
+
+
+
 
 
 
