@@ -89,6 +89,11 @@ title: Market Power
 - Caused by their characteristics and barriers to entry
 
 
+## Policy Options
+- If there is a natural monopoly, it is not in society's interest to break it up into smaller firms, as this would result in higher average costs and would be inefficient
+- Governments usually regulate natural monopolies, to ensure more socially desirable price and quantity outcomes
+- Governments also control who enters the market
+
 
 
 
