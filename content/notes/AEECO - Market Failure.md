@@ -2,8 +2,7 @@
 title: Market Failure
 ---
 
-# Causes of Market Failure
-### Classification of Goods
+## Classification of Goods
 #### Rival
 - Does the consumption by one party reduce the supply available for another?
 #### Excludable
@@ -35,12 +34,10 @@ title: Market Failure
 
 
 ## Market Failure
-
 ### Tragedy of the Commons - Common Property Resources
 - Refers to the over-consumption of common property resources
 - Occurs as the resource is readily available and there are no restrictions on consumption
 - However, once consumed the resource is not available to any other party.
-
 
 ### Free Rider Effect - Public Goods
 - Free riders enjoy the benefits of the consumption of a resource without paying for the cost of provision
