@@ -32,7 +32,10 @@ title: Market Power
 - Firms are price setters
 - E.g. Phones, computes
 
-### 
+
+### Barriers to Entry
+#### Economies of Scale
+- P
 
 
 
