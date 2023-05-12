@@ -16,7 +16,13 @@ title: Market Power
 - High barriers to entry
 - E.g. Utilities
 
-
+### Oligopoly
+- Few large firms
+- Goods are close substitutes
+- Barriers to entry exist
+- Sellers are interdependent:
+	- Engage in strategic behaviours
+- 
 
 
 
