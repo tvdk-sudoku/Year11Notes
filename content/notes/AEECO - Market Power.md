@@ -45,6 +45,45 @@ title: Market Power
   
 - Advertising campaigns that try to influence consumer tastes in favour of the product
 
+#### Control of Essential Resources
+- Monopolies can arise from ownership or control of an essential resource
+
+#### Aggressive Tactics
+- When existing firms use tactics to discourage new firms from entering the market
+- Are agreements or arrangements between firms that seek to restrain competition and remove the automatic regulation that competitive markets achieve
+
+##### Illegal Practices
+- Cartel
+- Collusion
+- Market Sharing
+- Collusive Tendering
+- Predatory Pricing
+- Resale Price Maintenance
+- Exclusive Dealing
+- Collective Boycott
+- Merger
+  
+  
+### Barriers to Entry (Legal)
+#### Patents
+- Rights given by the government to a firm that has developed a new product or invention to be its sole producer for a specified period of time
+- Will have a monopoly during this time
+
+#### Licenses
+- Granted by governments for particular professions or industries
+- Doesn't lead to monopoly but limits competition
+
+#### Copyrights
+- Guarantees that an author has the sole rights to copyrighted work
+
+#### Public Franchises
+- Granted to produce particular good or services
+
+#### Tariffs, Quotas and Other Trade Restrictions
+- Limits the quantities of a good that can be imported into a country, reducing competition
+
+
+
 
 
 
