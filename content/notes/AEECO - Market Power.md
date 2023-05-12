@@ -38,9 +38,12 @@ title: Market Power
 - Permitting lower average costs to be achieved as the firm increases its size
   
 - Average total costs of a large firm are substantially lower the the average costs faced by a smaller firm
-- Large firm 
+- Large firm can charge a lower price
 
-
+#### Branding
+- Creation by a firm of a unique image and image of a product
+  
+- Advertising campaigns that try to influence consumer tastes in favour of the product
 
 
 
