@@ -20,7 +20,9 @@ title: Economics Index
 - [[notes/AEECO - Elasticity|Elasticity]]
 - [[notes/AEECO - Market Efficiency|Market Efficiency]]
 - [[notes/AEECO - Market Failure|Market Failure]]
-	- [[notes/AEECO - Externalities|Externalities]] - In progress
+	- [[notes/AEECO - Externalities|Externalities]]
+	- [[notes/AEECO - Market Power|Market Power]]
+
 
 
 ### Investigations
