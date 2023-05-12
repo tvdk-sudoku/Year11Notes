@@ -82,6 +82,18 @@ title: Market Power
 #### Tariffs, Quotas and Other Trade Restrictions
 - Limits the quantities of a good that can be imported into a country, reducing competition
 
+## Market Power
+- A firm has market power if it is able to affect the market price by varying output
+- Firms in an imperfect markets have market power as they are able to do so
+	- E.g. Monopoly, oligopoly
+- Caused by their characteristics and barriers to entry
+
+
+
+
+
+
+
 
 
 
