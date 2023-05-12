@@ -90,13 +90,24 @@ title: Market Power
 
 
 ## Policy Options
+### Regulations
 - If there is a natural monopoly, it is not in society's interest to break it up into smaller firms, as this would result in higher average costs and would be inefficient
 - Governments usually regulate natural monopolies, to ensure more socially desirable price and quantity outcomes
 - Governments also control who enters the market
 
+### Deregulations
+- Government regulations that restrict competitions include:
+	- Limiting the number or types of businesses
+	- Limiting the ability of businesses to compete
+	- Reduce the incentives for businesses to compete
+	- Limiting the choice and information available to consumers
+- Some government regulations need to be de-regulated to enhance competition
 
-
-
+### Legislation
+- Legislation is put in place to limit anti-competitive behaviours to achieve a greater degree of allocative efficiency
+- ACCC
+	- Aims to protect, strengthen and supplement the way competition works in Australian markets and industries
+	- They enforce the competition and consumer act 2010
 
 
 
