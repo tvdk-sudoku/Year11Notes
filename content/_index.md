@@ -13,7 +13,7 @@ I have started a journal of what we do in class each lesson which can be found [
 I am part of the [[notes/The Town|Town]]
 
 
-****
+
 > [!QUOTE] Facts  
 >Ed is a bit of a delinquent.
 > 	MacE, 2023
