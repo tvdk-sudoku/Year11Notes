@@ -39,6 +39,14 @@ I am part of the [[notes/The Town|Town]]
 
 
 
+$$
+\begin{align}\\
+a &= 3\\
+&= 3\\
+&=3\\
+&=3\\
+\end{align}
+$$
 
 
 
