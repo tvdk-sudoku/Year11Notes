@@ -45,8 +45,9 @@ $Ed = |\frac{\Delta Q}{Q_{}} * \frac{P_{}}{\Delta P}|$
 TR = P * Q
 | Elasticity | Price      | Revenue      |
 | ---------- | ---------- | ------------ |
-| Elastic    | $\uparrow$ | $\downarrow$ |
-| Inelastic  | $\uparrow$ | $\uparrow$ |
+| Elastic    |  $\uparrow$  |  $\downarrow$  |
+| Inelastic  |  $\uparrow$  |  $\uparrow$   |
+
 
 Total revenue = Price * Quantity
 - Effect of changes in price on total revenue is dependent on the price elasticity of the product
