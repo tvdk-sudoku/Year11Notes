@@ -1,4 +1,4 @@
-baseURL = "https://grim4reaper.github.io/Year11Notes/"
+baseURL = "https://reapers-notes-v3.pages.dev/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
