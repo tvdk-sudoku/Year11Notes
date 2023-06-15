@@ -3,6 +3,6 @@ https://reapers-notes-v3.pages.dev/
   
   
 ## Old Website
-https://grim4reaper.github.io/Year11Notes/
-
+https://grim4reaper.github.io/Year11Notes/  
+- LINKS WILL NOT WORK WITHIN THIS WEBSITE
 
