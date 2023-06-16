@@ -16,7 +16,7 @@ title: Intro to Macroeconomics
 - Overseas
 
 ### Diagram of the CFI
-![[notes/CFI.png]]
+![[notes/IMAGE - CFI.png]]
 
 ### Households and Firms
 #### Assumptions
@@ -100,11 +100,28 @@ Households expenditure goods and services:
 - Changes in business inventories (stocks of goods that have been produced but not sold)
 
 ##### Factors Affecting Investment Expenditure
-- Rate of interest (nominal vs real rates)
+- Rate of interest (nominal vs real rates): Higher interest rates = less spending
 - Business expectations
 - Level of past profits (profitability)
 - Government policies
 
+#### Government Expenditure
+- All federal, state, local government expenditure
+- 2 parts:
+	- **G1**: Current government expenditure on day to day functions
+	- **G2**: Government expenditure used for future needs
+
+##### Factors Affecting Government Expenditure
+- Government policy objectives
+- Current economic climate
+
+#### Net Exports
+- Value of exports minus value of imports
+
+##### Factors Affecting Net Exports
+- Exchange rates: $AUD increases = Imports decreases and exports increase
+- Domestic and overseas economic activity: Aus doing well = Imports increase, overseas doing well = Exports increase
+- Tariffs/Quotas: Higher tariffs = decrease
 
 
 
