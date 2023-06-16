@@ -1,0 +1,13 @@
+name = "ip-address-test-1"
+main = "src/index.ts"
+compatibility_date = "2023-06-15"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "<DATABASE_NAME>"
+database_id = "<unique-ID-for-your-database>"
