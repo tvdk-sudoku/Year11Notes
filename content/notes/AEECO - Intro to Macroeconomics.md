@@ -3,11 +3,9 @@ title: Intro to Macroeconomics
 ---
 
 # Intro to Macroeconomics
-
 ## Circular Flow of Income
 > [!important] Definition
 > A Macroeconomic model that describes the flows of resources, goods and service, income and expenditure between different parts of the economy.
-  
 ### Includes
 - Firms
 - Households
@@ -58,7 +56,6 @@ title: Intro to Macroeconomics
 
 
 ## Aggregate Expenditure
-
 ### Measuring Economic Performance
 #### GDP
 - **Expenditure approach**
