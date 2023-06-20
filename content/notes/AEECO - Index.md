@@ -4,7 +4,7 @@ title: Economics Index
 
 # Economics
 
-### Chapter Summaries
+## Chapter Summaries
 - These are chapter summaries from the textbook
 - [[notes/AEECO - Chapter 1|Chapter 1]]
 - [[notes/AEECO - Chapter 2|Chapter 2]]
@@ -15,7 +15,8 @@ title: Economics Index
 
 
 
-### Notes
+## Notes
+### Unit 1
 - [[AEECO - Intro|Intro]]
 - [[notes/AEECO - Demand and Supply|Demand and Supply]]
 - [[notes/AEECO - Elasticity|Elasticity]]
@@ -24,9 +25,12 @@ title: Economics Index
 	- [[notes/AEECO - Externalities|Externalities]]
 	- [[notes/AEECO - Market Power|Market Power]]
 
+### Unit 2
+- [[notes/AEECO - Intro to Macroeconomics|Intro to Macroeconomics]]
+- [[notes/AEECO - Economic Growth|Economic Growth]]
 
 
-### Investigations
+## Investigations
 - [[notes/AEECO - Investigation 1|Investigation 1]]
 
 
