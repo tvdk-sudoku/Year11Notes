@@ -48,6 +48,15 @@ $$\frac{GDP_{yr2}\space - GDP_{yr1}}{GDP_{yr1}}*100$$
 **Real GDP per capita:**
 - Average real GDP per person in the population
 
+### Limitations of GDP
+- Doesn't describe income distribution
+- Coincident Indicator
+- Mon-market production
+- Ignores externalities
+- Doesn't detail whether the growth is sustainable
+- Does not describe non-material welfare
+- 
+
 
 
 
