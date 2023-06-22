@@ -93,6 +93,42 @@ Growth can come from:
 	- Government expenditure
 	- Net exports
 
+## Cost/Benefits
+### Benefits of Economic Growth
+**Increased material standard of living**
+- Increased quantity of goods and services
+- Satisfy more wants and needs
+
+**Increased Level of *REAL INCOME***
+- How much money an individual or entity makes after accounting for inflation
+
+**Reduced Unemployment**
+- Growth stimulates demand for labour, which means more people will be employed and less unemployment
+
+**Improved Efficiency**
+- Promote knowledge, skills, productivity and tech changes
+
+**Fiscal Dividend**
+- Rising income will lead to higher taxation revenue which can be used for public and merit goods such as infrastructure, health, etc
+- Public and merit goods generate considerable external benefits
+	- More hospitals and schools mean a healthier and better-educated population
+
+### Costs of Economic Growth
+**Structural Unemployment**
+- From structural change:
+	- When people want new type of G+S and when inventions make it possible?
+
+**Inflationary Pressure**
+- When resources are fully employed and the economy is working near its capacity
+- High inflation
+
+**Environmental Degradation**
+- As production and consumption increase, negative externalities (pollution, etc) are likely to arise
+
+**Social Dislocation**
+- High rates of growth may lead to crimes, stress related diseases, suicide, etc
+
+
 
 
 
