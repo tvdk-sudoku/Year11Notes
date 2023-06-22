@@ -30,7 +30,6 @@ The target of Australia's GDP is 3-4%
 
 
 ## Measuring Economic Growth
-
 > [!important] Definition - *GDP*
 > The total market value of all **final** goods and services produced in a country during a certain time period
 
@@ -55,7 +54,46 @@ $$\frac{GDP_{yr2}\space - GDP_{yr1}}{GDP_{yr1}}*100$$
 - Ignores externalities
 - Doesn't detail whether the growth is sustainable
 - Does not describe non-material welfare
-- 
+
+## Determinants of Economic Growth
+Growth can come from:
+- Potential Growth:
+	- Those that increase the capacity of the economy to produce more goods and services with available resources (supply side)
+- Actual Growth:
+	- How much expenditure is taking place to consume those goods and services (demand side)
+
+
+### Potential Growth
+#### Population Growth
+- Increase the total size of the economy: greater demand for G+S and productive factors
+- Increase in size of labour force: migration and natural increase
+- Migration has more growth than natural: migration promotes transfer of wealth, knowledge and skills and positive fiscal impact
+
+#### Labour Force Participation
+- Proportion of people over 15 years old who are in paid work or actively looking for work
+- Higher involvement at work: increases the capacity of production (overcomes the effects of an aging workforce)
+- Sustains government tax revenue
+
+#### Rising Labour Productivity
+- Is the amount of output produced per hour worked
+
+##### Capital deepening
+- Increase in the stock of capital relative to the stock of other productive resources
+- Production becomes more capital intensive: increasing labour productivity
+- Technology changes and improvements of function which help to increase the amount of output
+
+##### Multi-Factor Productivity
+- All other factors that improve a worker's ability to produce goods and services (not capita)
+- Knowledge and skills that workers develop through education and experience
+
+### Actual Growth
+- Factors that affect spending in the economy:
+	- Consumption
+	- Investment
+	- Government expenditure
+	- Net exports
+
+
 
 
 
