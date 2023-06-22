@@ -128,6 +128,9 @@ Growth can come from:
 **Social Dislocation**
 - High rates of growth may lead to crimes, stress related diseases, suicide, etc
 
+**Income Inequality**
+- May not raise standards of living of everyone in the economy at the same rate
+
 
 
 
