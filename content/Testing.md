@@ -60,7 +60,7 @@ $$n^x=ln(n)*n^x$$
 
 
 
-<iframe src="notes/IMAGE - CFI.png'"></iframe>
+<iframe src="notes/IMAGE%20-%20CFI.png'"></iframe>
 
 
 
