@@ -19,6 +19,26 @@ title: Testing
 
 
 
+### Latex Testing (For Joel)
+$$
+\begin{align*}\\
+a &= 3\\
+&=3\\
+&=3\\
+&=3\\
+&=3\\
+&=3\\
+&=3\\
+&=3\\
+&=3\\
+&=3\\
+&=3\\
+&=3\\
+\end{align*}
+$$
+
+
+
 
 ```run-python
 print("Hello, World!")
@@ -36,6 +56,12 @@ print("Hello, World!")
 
 
 $$n^x=ln(n)*n^x$$
+
+
+<iframe src="notes/IMAGE - CFI.png"></iframe>
+
+
+
 
 
 

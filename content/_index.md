@@ -37,24 +37,8 @@ I am part of the [[notes/The Town|Town]]
 
 
 
-
-### Latex Testing (For Joel)
-$$
-\begin{align*}\\
-a &= 3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-\end{align*}
-$$
+## Testing
+[[Testing|Testing Page]]
 
 
 
