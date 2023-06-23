@@ -59,8 +59,8 @@ $$n^x=ln(n)*n^x$$
 
 
 
-b
-<iframe src="notes/IMAGE%20-%20CFI.png"></iframe>
+v0.3
+<iframe src="https://reapers-notes-v3.pages.dev/notes/IMAGE%20-%20CFI.png" width="1000px" height="1000px"></iframe>
 
 
 
