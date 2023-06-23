@@ -35,3 +35,9 @@ print("Hello, World!")
 
 
 
+$$n^x=ln(n)*n^x$$
+
+
+
+
+
