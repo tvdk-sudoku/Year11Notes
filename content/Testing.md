@@ -58,7 +58,7 @@ print("Hello, World!")
 $$n^x=ln(n)*n^x$$
 
 
-<iframe src="notes/Testing">a</iframe>
+<iframe src="notes/Testing"></iframe>
 
 
 
