@@ -60,7 +60,7 @@ $$n^x=ln(n)*n^x$$
 
 <iframe src="notes/Testing"></iframe>
 
-
+<embed src="https://reapers-notes-v3.pages.dev/Testing"></embed>
 
 
 
