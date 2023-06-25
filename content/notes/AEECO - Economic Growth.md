@@ -20,13 +20,13 @@ The target of Australia's GDP is 3-4%
 - If an economy is operating inside its PPF and produces more as a result of using preciously unemployed resources, or using resources more efficiently - referred to as **actual growth**
 - This is illustrated by a movement from a point within the PPF to a point towards or on the PPF
 
-**NB: INSERT DIAGRAM**
+![[notes/IMAGE - Actual Growth PPF.png|300]]
 
 ### Potential Growth PPF
 - The productive potential of an economy may be increased by an increase in the quality and/or quantity of resources - known as **potential growth**
 - This is illustrated by an outward shift of the PPF
 
-**NB: INSERT DIAGRAM**
+![[notes/Pasted image 20230625124119.png|300]]
 
 
 ## Measuring Economic Growth
