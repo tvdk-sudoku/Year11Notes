@@ -26,7 +26,7 @@ The target of Australia's GDP is 3-4%
 - The productive potential of an economy may be increased by an increase in the quality and/or quantity of resources - known as **potential growth**
 - This is illustrated by an outward shift of the PPF
 
-![[notes/Pasted image 20230625124119.png|300]]
+![[notes/IMAGE - Potential Growth PPF.png|300]]
 
 
 ## Measuring Economic Growth
