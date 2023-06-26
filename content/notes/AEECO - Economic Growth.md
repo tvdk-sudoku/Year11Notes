@@ -13,7 +13,7 @@ title: Economic Growth
 ##### Actual Growth
 - The rate of change in real GDP over a given period of time
   
-The target of Australia's GDP is 3-4%
+The target of Australia's GDP is 3-4%.
 
 ## PPFs
 ### Actual Growth PPF
