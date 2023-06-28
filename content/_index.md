@@ -14,9 +14,11 @@ I am part of the [[notes/The Town|Town]]
 
 
 
-> [!QUOTE] Facts  
->Ed is a bit of a delinquent.
-> 	MacE, 2023
+
+
+> [!QUOTE] sus  
+>I hate orphans
+> 	Ed, 2023
 
 
 
