@@ -12,6 +12,10 @@ title: Economics Index
 - [[notes/AEECO - Chapter 4|Chapter 4]]
 - [[notes/AEECO - Chapter 5|Chapter 5]]
 - [[notes/AEECO - Chapter 6|Chapter 6]]
+- [[notes/AEECO - Chapter 7|Chapter 7]]
+
+
+
 
 
 
