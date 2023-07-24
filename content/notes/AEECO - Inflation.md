@@ -24,7 +24,9 @@ title: Inflation
 **Weighted median**
 - Change in middle 50th percentile by weight
 **CPI excluding volatile items**
-- Which is the average inflation rate of all items in the CPI except for fruit, veg and fuel as theu are 
+- Which is the average inflation rate of all items in the CPI except for fruit, veg and fuel as they are very volatile
+- *Always removes the same items*
+
 
 
 
