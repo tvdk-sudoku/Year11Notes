@@ -27,7 +27,9 @@ title: Inflation
 - Which is the average inflation rate of all items in the CPI except for fruit, veg and fuel as they are very volatile
 - *Always removes the same items*
 
-
+### Limitations
+- Only reports price movements in metro areas
+- Does
 
 
 
