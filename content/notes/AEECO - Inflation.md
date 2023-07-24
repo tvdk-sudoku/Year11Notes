@@ -13,7 +13,7 @@ title: Inflation
 	- Weighted index based on proportion of income spent
 - Measures the change in price
 - Inflation rate:
-	- $(CPI (Y2) ))$
+	$\frac{CPI (Y2) - CPI (Y1)}{CPI(Y1)}*100$
 
 
 
