@@ -29,7 +29,9 @@ title: Inflation
 
 ### Limitations
 - Only reports price movements in metro areas
-- Does
+- Does not account for quality of goods and services
+- Not regarded as "true" cost of living index
+	- Does not reflect changing consumer preferences on a daily basis
 
 
 
