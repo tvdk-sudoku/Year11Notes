@@ -18,7 +18,11 @@ title: Inflation
 ### Headline and Underlying Inflation
 - Headline measure (CPI): Measure reported by the media
 - Underlying measure: Inflation the best reflects market forces
-	- 
+
+**Trimmed mean**
+- Remove the most volatile 15% of items from each side of the CPI
+**Weighted median**
+- Change in middle 50th 
 
 
 
