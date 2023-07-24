@@ -15,7 +15,10 @@ title: Inflation
 - Inflation rate:
 	$\frac{CPI (Y2) - CPI (Y1)}{CPI(Y1)}*100$
 
-
+### Headline and Underlying Inflation
+- Headline measure (CPI): Measure reported by the media
+- Underlying measure: Inflation the best reflects market forces
+	- 
 
 
 
