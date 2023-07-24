@@ -37,7 +37,21 @@ title: Inflation
 ### Demand Pull Inflation
 - Excess of aggregate demand over aggregate supply at the full employment of resources
 - Rise in the general price level resulting from an excess of demand over supply
-- W
+- Will push wage prices up with higher demand for labour
+
+### Cost Push Inflation
+- Caused by a fall in aggregate supply, resulting from an increase in wages or prices of other inputs
+- Rish
+
+
+
+
+
+
+
+
+
+
 
 
 
