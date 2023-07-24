@@ -33,6 +33,8 @@ title: Inflation
 - Not regarded as "true" cost of living index
 	- Does not reflect changing consumer preferences on a daily basis
 
+## Types of Inflation
+### Demand P
 
 
 
