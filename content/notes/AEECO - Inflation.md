@@ -34,7 +34,10 @@ title: Inflation
 	- Does not reflect changing consumer preferences on a daily basis
 
 ## Types of Inflation
-### Demand P
+### Demand Pull Inflation
+- Excess of aggregate demand over aggregate supply at the full employment of resources
+- Rise in the general price level resulting from an excess of demand over supply
+- W
 
 
 
