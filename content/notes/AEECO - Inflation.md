@@ -41,7 +41,9 @@ title: Inflation
 
 ### Cost Push Inflation
 - Caused by a fall in aggregate supply, resulting from an increase in wages or prices of other inputs
-- Rish
+- Rise in production costs are passed on to consumers who have to pay higher prices for final goods and services
+
+
 
 
 
