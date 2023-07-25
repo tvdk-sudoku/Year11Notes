@@ -13,6 +13,8 @@ title: Economics Index
 - [[notes/AEECO - Chapter 5|Chapter 5]]
 - [[notes/AEECO - Chapter 6|Chapter 6]]
 - [[notes/AEECO - Chapter 7|Chapter 7]]
+- Chapter 8 - Never asked to do
+- [[notes/AEECO - Chapter 9|Chapter 9]] 
 
 
 
@@ -32,6 +34,7 @@ title: Economics Index
 ### Unit 2
 - [[notes/AEECO - Intro to Macroeconomics|Intro to Macroeconomics]]
 - [[notes/AEECO - Economic Growth|Economic Growth]]
+- [[notes/AEECO - Inflation|Inflation]]
 
 
 ## Investigations
