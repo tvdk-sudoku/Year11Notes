@@ -13,7 +13,7 @@ TBD
 ## Headline and Underlying Measures
 ### Headline Inflation
 - CPI
-- Includes volatile
+- Includes volatile goods s
 
 
 
