@@ -13,13 +13,12 @@ TBD
 ## Headline and Underlying Measures
 ### Headline Inflation
 - CPI
-- Includes volatile goods s
-
-
+- Includes volatile goods such as fuel and seasonal goods such as fruit and veg
+- 
 
 
 ### Underlying Inflation
-
+- Adjusted for volatile and seasonal good
 
 
 
