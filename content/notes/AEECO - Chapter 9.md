@@ -24,6 +24,7 @@ TBD
 	- Removes top and bottom 15% of price changes for goods
 - Weighted median:
 	- Is the rate of rate of price change of the at the 50th percentile by weight
+	- 
 
 
 
