@@ -21,7 +21,8 @@ TBD
 - Adjusted for volatile and seasonal goods
 - ABS calculates trimmed mean and weighted median
 - Trimmed mean:
-	- Removes top and bottom
+	- Removes top and bottom 15% of price changes for goods
+- 
 
 
 
