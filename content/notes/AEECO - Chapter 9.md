@@ -18,7 +18,10 @@ TBD
 
 
 ### Underlying Inflation
-- Adjusted for volatile and seasonal good
+- Adjusted for volatile and seasonal goods
+- ABS calculates trimmed mean and weighted median
+- Trimmed mean:
+	- Removes top and bottom
 
 
 
