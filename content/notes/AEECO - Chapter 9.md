@@ -22,7 +22,8 @@ TBD
 - ABS calculates trimmed mean and weighted median
 - Trimmed mean:
 	- Removes top and bottom 15% of price changes for goods
-- 
+- Weighted median:
+	- Is the rate of 
 
 
 
