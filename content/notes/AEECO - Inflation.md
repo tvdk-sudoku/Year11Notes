@@ -62,7 +62,8 @@ title: Inflation
 	- Diversion of efforts towards hoarding or non-productive activities
 - Increase in income inequality
 	- Bracket creeps: As income rises with inflation, higher margin of tax leading to fewer tax brackets
-- 
+
+
 
 
 
