@@ -56,6 +56,8 @@ title: Inflation
 	- Due to wage inflation and structural change
 - Uncertainty for decision makers
 	- Investment decisions, reduce output and employment opportunities
+- Economic efficiency
+	- People move away from productive to speculative activities (assets, investment)
 
 
 
