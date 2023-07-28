@@ -60,7 +60,7 @@ title: Inflation
 	- People move away from productive to speculative activities (assets, investment): negative impact on economic output
 - Hyperinflation (above 30% p.a.)
 	- Diversion of efforts towards hoarding or non-productive activities
-- Reduction in income inequality
+- Increase in income inequality
 	- Bracket creeps: As income rises with inflation, higher margin of tax leading to fewer tax brackets
 - 
 
