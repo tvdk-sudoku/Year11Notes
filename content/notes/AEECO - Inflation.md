@@ -64,7 +64,12 @@ title: Inflation
 	- Bracket creeps: As income rises with inflation, higher margin of tax leading to fewer tax brackets
 
 ## Benefits of Low, Stable Inflation
-- Helps main
+- Helps maintain low real interest rates
+	- Supports economic confidence
+	- Encourages higher levels of consumption and investment
+- Creates confidence about growth of economy
+	- Assets like houses will increase in value over time
+	- Changes in prices are predicable
 
 
 
