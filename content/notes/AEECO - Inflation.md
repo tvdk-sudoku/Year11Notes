@@ -52,7 +52,10 @@ title: Inflation
 	- Country's exports at disadvantage when domestic inflation is greater than overseas
 - Currency depreciation
 	- Less overseas demand for country's goods
-- 
+- Capital for labour substitution
+	- Due to wage inflation and structural change
+- Uncertainty for decision makers
+	- Investment decisions, reduce output and employment opportunities
 
 
 
