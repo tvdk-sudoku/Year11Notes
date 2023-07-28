@@ -63,7 +63,8 @@ title: Inflation
 - Increase in income inequality
 	- Bracket creeps: As income rises with inflation, higher margin of tax leading to fewer tax brackets
 
-
+## Benefits of Low, Stable Inflation
+- Helps main
 
 
 
