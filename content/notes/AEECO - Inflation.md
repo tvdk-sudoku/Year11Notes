@@ -57,7 +57,10 @@ title: Inflation
 - Uncertainty for decision makers
 	- Investment decisions, reduce output and employment opportunities
 - Economic efficiency
-	- People move away from productive to speculative activities (assets, investment)
+	- People move away from productive to speculative activities (assets, investment): negative impact on economic output
+- Hyperinflation (above 30% p.a.)
+	- Diversion of efforts towards hoarding or non-productive activities
+- Reduction in income i
 
 
 
