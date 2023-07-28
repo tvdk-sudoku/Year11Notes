@@ -50,7 +50,9 @@ title: Inflation
 	- Real interest rates must be positive for lenders to make a profit and lend
 - International competitiveness
 	- Country's exports at disadvantage when domestic inflation is greater than overseas
-
+- Currency depreciation
+	- Less overseas demand for country's goods
+- 
 
 
 
