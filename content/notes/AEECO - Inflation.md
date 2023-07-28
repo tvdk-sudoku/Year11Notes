@@ -69,7 +69,9 @@ title: Inflation
 	- Encourages higher levels of consumption and investment
 - Creates confidence about growth of economy
 	- Assets like houses will increase in value over time
-	- Changes in prices are predicable
+	- Changes in prices are predicable, allowing consumers/producers to comfortably make long term decisions
+
+
 
 
 
