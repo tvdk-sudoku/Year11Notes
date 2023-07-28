@@ -46,7 +46,10 @@ title: Inflation
 ## Costs of Inflation
 - Reduces real income
 	- Buy less goods with same money
-- Affects intr
+- Affects interest rates
+	- Real interest rates must be positive for lenders to make a profit and lend
+- International competitiveness
+	- Country's exports at disadvantage when d
 
 
 
