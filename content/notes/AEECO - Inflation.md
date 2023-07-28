@@ -49,7 +49,8 @@ title: Inflation
 - Affects interest rates
 	- Real interest rates must be positive for lenders to make a profit and lend
 - International competitiveness
-	- Country's exports at disadvantage when d
+	- Country's exports at disadvantage when domestic inflation is greater than overseas
+
 
 
 
