@@ -30,7 +30,12 @@ Unemployment rate = $\frac{Unemployed}{Labour force}*100$
 Labour force participation rate = $\frac{Labour force}{Working\space age\space population}*100$
 
 
-## Limitaion
+## Limitations
+- Doesn't account for hidden unemployment
+- Doesn't account for underemployment
+- Excludes people with disabilities
+
+
 
 
 
