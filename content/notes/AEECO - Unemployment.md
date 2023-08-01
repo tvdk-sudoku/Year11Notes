@@ -25,6 +25,8 @@ Hidden unemployed:
 Non-accelerating inflation rate of unemployment (NAIRU):
 - Unemployment that can not be reduced by expanding aggregate demand (full employment)
 
+## Measurement of Unemployment
+Unemployment rate = $\frac{}$
 
 
 
