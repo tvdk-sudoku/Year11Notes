@@ -35,6 +35,7 @@ title: Economics Index
 - [[notes/AEECO - Intro to Macroeconomics|Intro to Macroeconomics]]
 - [[notes/AEECO - Economic Growth|Economic Growth]]
 - [[notes/AEECO - Inflation|Inflation]]
+- [[notes/AEECO - Unemployment|Unemployment]]
 
 
 ## Investigations
