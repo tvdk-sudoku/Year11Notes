@@ -26,7 +26,9 @@ Non-accelerating inflation rate of unemployment (NAIRU):
 - Unemployment that can not be reduced by expanding aggregate demand (full employment)
 
 ## Measurement of Unemployment
-Unemployment rate = $\frac{}$
+Unemployment rate = $\frac{Unemployed}{Labour force}*100$
+Labour force participation rate = $\frac{Labour force}{Working\spaceage population}*100$
+
 
 
 
