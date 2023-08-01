@@ -27,10 +27,10 @@ Non-accelerating inflation rate of unemployment (NAIRU):
 
 ## Measurement of Unemployment
 Unemployment rate = $\frac{Unemployed}{Labour force}*100$
-Labour force participation rate = $\frac{Labour force}{Working\spaceage population}*100$
+Labour force participation rate = $\frac{Labour force}{Working\space age\space population}*100$
 
 
-
+## Limitaion
 
 
 
