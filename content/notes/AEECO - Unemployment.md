@@ -23,7 +23,9 @@ Hidden unemployed:
 - Discouraged workers:
 	- Workers who choose not to participate in the labour force because previous efforts to find a job have been frustrated
 Non-accelerating inflation rate of unemployment (NAIRU):
-- Unemployment that can not 
+- Unemployment that can not be reduced by expanding aggregate demand (full employment)
+
+
 
 
 
