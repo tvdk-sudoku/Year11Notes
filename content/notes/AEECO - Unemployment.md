@@ -8,7 +8,10 @@ title: Unemployment
 
 
 ## Definitions
-Wor
+Working age population:
+- Part of the population that is of working age (>15)
+Labour force:
+- The portion of the working age population who are either working, or are actively seekin
 
 
 
