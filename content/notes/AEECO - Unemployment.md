@@ -19,7 +19,11 @@ Underemployment:
 Disguised unemployment:
 - Underemployment:
 	- When people are employed less than they would like to
-Hidden unemployed
+Hidden unemployed:
+- Discouraged workers:
+	- Workers who choose not to participate in the labour force because previous efforts to find a job have been frustrated
+Non-accelerating inflation rate of unemployment (NAIRU):
+- Unemployment that can not 
 
 
 
