@@ -15,7 +15,11 @@ Labour force:
 Participation rate:
 - Proportion of the working age population who are either working, or are actively seeking work
 Underemployment:
-- People who wish to work longer hours 
+- People who wish to work longer hours but can't
+Disguised unemployment:
+- Underemployment:
+	- When people are employed less than they would like to
+Hidden unemployed
 
 
 
