@@ -17,7 +17,7 @@ Identity stolen
 2. Nothing supernatural
 3. Secrete passages? (only 1?)
 4. No new poisons/tech
-5. SIGH
+5. No racist 
 6. Careful with accidents and intuition
 7. The detective himself must not commit the crime
 8. The detective is bound to declare any clues which he may discover
