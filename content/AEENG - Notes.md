@@ -4,7 +4,8 @@ title: Notes
 
 # Notes
 ## Introduction
-Indent
+Identity stolen
+- Heramily felt foreign 
 
 
 
