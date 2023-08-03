@@ -16,7 +16,11 @@ Identity stolen
 - Known criminal
 - Nothing supernatural
 - Secrete passages?
-- 
+- No new poisons/tech
+- SIGH
+- Careful with accidents and intuition
+- The detective himself must not commit the crime
+- The detective is bound to declare any
 
 
 
