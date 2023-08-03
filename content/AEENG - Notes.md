@@ -13,14 +13,16 @@ Identity stolen
 - Genres have rules
 
 #### Knox's 10 Rules
-- Known criminal
-- Nothing supernatural
-- Secrete passages?
-- No new poisons/tech
-- SIGH
-- Careful with accidents and intuition
-- The detective himself must not commit the crime
-- The detective is bound to declare any
+1. Known criminal
+2. Nothing supernatural
+3. Secrete passages?
+4. No new poisons/tech
+5. SIGH
+6. Careful with accidents and intuition
+7. The detective himself must not commit the crime
+8. The detective is bound to declare any clues which he may discover
+9. Thick Watson
+10. No twins plz
 
 
 
