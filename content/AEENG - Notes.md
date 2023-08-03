@@ -23,7 +23,8 @@ Identity stolen
 8. The detective is bound to declare any clues which he may discover
 9. Thick Watson
 10. No twins
-11.
+
+
 
 
 
