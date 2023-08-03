@@ -5,7 +5,8 @@ title: Notes
 # Notes
 ## Introduction
 Identity stolen
-- Heramily felt foreign 
+- Her family felt foreign to her
+- 
 
 
 
