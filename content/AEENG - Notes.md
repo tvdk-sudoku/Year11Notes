@@ -15,7 +15,7 @@ Identity stolen
 #### Knox's 10 Rules
 1. Known criminal
 2. Nothing supernatural
-3. Secrete passages?
+3. Secrete passages? (only 1?)
 4. No new poisons/tech
 5. SIGH
 6. Careful with accidents and intuition
