@@ -40,6 +40,7 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 ### Cyclical UE
 - Follows the cyclical movements of the business trade cycle
 - Derived from the demand of final goods and services
+- Can get to 0%
 
 ### Structural UE
 - When there is a mismatch of available and required skills in a sector of the economy
@@ -48,7 +49,11 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 	- Changes in the demand for productive factors
 	- Changes in the pattern of consumer demand
 - Can be long term, especially for older workers
+- Is always going to exist
 
+### Frictional 
+- second
+- third
 
 
 
