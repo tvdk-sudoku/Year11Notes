@@ -52,6 +52,10 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Is always going to exist
 
 ### Frictional UE
+- Unemployment that occurs due to the job search that occurs when in transition between different jobs
+- Is most likely to be short term
+- Is always going to exist
+
 
 
 
