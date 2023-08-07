@@ -46,7 +46,9 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Causes:
 	- Changes in technology
 	- Changes in the demand for productive factors
-	- Changes in teh pattern of consumer deman
+	- Changes in the pattern of consumer demand
+- Can be long term, especially for older workers
+
 
 
 
