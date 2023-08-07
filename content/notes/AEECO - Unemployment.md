@@ -66,6 +66,11 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Increased social problems
      - E.g. depression, violence, crime
 
+### Distribution of Income
+- Affects different groups of people differently
+    - Dependent on factors including age, health status and geographical location
+- Increases income inequality
+
 
 
 
