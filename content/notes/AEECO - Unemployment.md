@@ -77,6 +77,27 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Considered to exist when there is zero cyclical unemployment
 
 
+## Natural Rate of Unemployment
+- Structural UE + frictional UE 
+- Below 5%?
+
+## NAIRU
+- Non-accelerating inflation rate of unemployment
+- Is the lowest unemployment rate that can be sustained without causing wages growth and inflation to rise
+- There will be spare capacity in an econoomy when aggregate demand for goods and services is less than the economy's capacity to produce them
+- Indicator of this spare capacity is the differencce between the NAIRU and the unemployment rate - aka unemployment rate gap
+- If the unemployment rate is higher than the NAIRU, the economy would not be at full employment and there would be downward pressure on inflation
+- If the unemployment rate is lower than the NAIRU, the economy is opperating above its full capacity, andd there is upward pressure on inflation
+
+### Implications of Full Employment
+- Economy is nearing or at full capacity
+- Can ead to oversupply of labour
+- Creates inflationary pressure
+
+
+
+
+
 
 
 
