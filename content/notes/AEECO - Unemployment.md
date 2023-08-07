@@ -72,6 +72,10 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Increases income inequality
 
 
+## Full Employment
+- When the economy is at its maximum production capacity
+- Considered to exist when there is zero cyclical unemployment
+
 
 
 
