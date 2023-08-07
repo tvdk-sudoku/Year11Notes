@@ -36,7 +36,10 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Excludes people with disabilities
 
 
-
+## Types of Unemployment
+### Cyclical UE
+- Cyclical movements of the business trade cycle
+- Derived from the demand of final goods and services
 
 
 
