@@ -91,7 +91,7 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 
 ### Implications of Full Employment
 - Economy is nearing or at full capacity
-- Can ead to oversupply of labour
+- Can lead to oversupply of labour
 - Creates inflationary pressure
 
 ### Trade off Between Unemployment and Inflation
