@@ -77,11 +77,11 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Considered to exist when there is zero cyclical unemployment
 
 
-## Natural Rate of Unemployment
+### Natural Rate of Unemployment
 - Structural UE + frictional UE 
 - Below 5%?
 
-## NAIRU
+### NAIRU
 - Non-accelerating inflation rate of unemployment
 - Is the lowest unemployment rate that can be sustained without causing wages growth and inflation to rise
 - There will be spare capacity in an econoomy when aggregate demand for goods and services is less than the economy's capacity to produce them
@@ -93,6 +93,12 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Economy is nearing or at full capacity
 - Can ead to oversupply of labour
 - Creates inflationary pressure
+
+### Trade off Between Unemployment and Inflation
+- Low unemployment is usually correlated with high inflationary
+    - Low unemployment leads to inflationary pressure due to high levels of demand
+- High unemployment is usually correlated with low inflation
+- Can be represented by the Phillips Curve
 
 
 
