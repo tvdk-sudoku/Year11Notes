@@ -51,9 +51,8 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Can be long term, especially for older workers
 - Is always going to exist
 
-### Frictional 
-- second
-- third
+### Frictional UE
+
 
 
 
