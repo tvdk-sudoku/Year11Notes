@@ -56,6 +56,16 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 - Is most likely to be short term
 - Is always going to exist
 
+## Impact of Unemployment
+- Lower levels of AE, investment and business confidence
+    - UE indicates that resources are under-utilised
+    - There is a gap between actual GDP and potential GDP
+- Higher welfare payments
+    - Opportunity cost:
+         - Potential expenditure on infrastructure, health or education
+- Increased social problems
+     - E.g. depression, violence, crime
+
 
 
 
