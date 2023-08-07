@@ -38,8 +38,20 @@ Labour force participation rate = $\frac{Labour force}{Working\space age\space p
 
 ## Types of Unemployment
 ### Cyclical UE
-- Cyclical movements of the business trade cycle
+- Follows the cyclical movements of the business trade cycle
 - Derived from the demand of final goods and services
+
+### Structural UE
+- When there is a mismatch of available and required skills in a sector of the economy
+- Causes:
+	- Changes in technology
+	- Changes in the demand for productive factors
+	- Changes in teh pattern of consumer deman
+
+
+
+
+
 
 
 
