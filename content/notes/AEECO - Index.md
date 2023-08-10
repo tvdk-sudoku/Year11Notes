@@ -36,6 +36,7 @@ title: Economics Index
 - [[notes/AEECO - Economic Growth|Economic Growth]]
 - [[notes/AEECO - Inflation|Inflation]]
 - [[notes/AEECO - Unemployment|Unemployment]]
+- [[notes/AEECO - Business Trade Cycle|Business Trade Cycle]]
 
 
 ## Investigations
