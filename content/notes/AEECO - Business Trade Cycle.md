@@ -52,10 +52,22 @@ title: Business Trade Cycle (BTC)
 
 ## Lagging Indicators
 - Follows an event
-- Ability to confirm that a pattern is occuring
+- Ability to confirm that a pattern is occurring
 - Unemployment is a common lagging indicator
 - If the unemployment rate is rising, it indicates that the economy has been doing poorly
-- Also: CPI, consumer debt, interest rates, 
+- Also: CPI, consumer debt, interest rates
+
+## Coincident Indicators
+- Change at approximately the same time as the conditions
+- Change at the same time as the economy or stock market
+- Personal incomes
+- Also: GDP, Sales, Manufacturing
+
+
+
+
+
+
 
 
 
