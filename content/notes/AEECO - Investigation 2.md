@@ -5,6 +5,7 @@ title: Investigation 2
 # Part A
 ## Section 1 (2 marks)
 
+
 | Indicator    | 2020  | 2021 | 2022 | 2023  |
 | ------------ | ----- | ---- | ---- | ----- |
 | Unemployment | 13.5% | 8.5% | 6%   | 6.25% |
@@ -22,6 +23,8 @@ title: Investigation 2
 
 
 
+
+
 #### Effect
 
 
@@ -30,8 +33,12 @@ title: Investigation 2
 
 
 ### Unemployment
-- 1 cause and 1 effect
+#### Cause
 
+
+
+
+#### Effect
 
 
 
