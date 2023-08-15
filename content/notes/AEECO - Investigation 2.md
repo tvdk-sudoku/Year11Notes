@@ -12,10 +12,8 @@ title: Investigation 2
 | **Inflation**    | -0.2% | 2%   | 6.1% | 6%    | 
 **NB: Look at the graphs to graph as this table doesn't show all movements**
 
-### Graphs
-![[notes/Image - GDP Growth.png]]
-![[notes/Image - Inflation.png]]
-![[notes/Image - Unemployment.png]]
+
+
 
 ### Report
 
@@ -58,6 +56,10 @@ title: Investigation 2
 
 
 
+## Graphs
+![[notes/Image - GDP Growth.png]]
+![[notes/Image - Inflation.png]]
+![[notes/Image - Unemployment.png]]
 
 
 
