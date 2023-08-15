@@ -16,9 +16,7 @@ title: Investigation 2
 
 
 
-| x   |
-| --- |
-|     |
+
 
 
 ## Section 2 (8 marks)
