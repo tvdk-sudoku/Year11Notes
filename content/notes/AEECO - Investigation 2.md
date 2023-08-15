@@ -8,7 +8,7 @@ title: Investigation 2
 | Indicator    | 2020 | 2021 | 2022 | 2023 |
 | ------------ | ---- | ---- | ---- | ---- |
 | Unemployment |      |      |      |      |
-| GDP Growth   | 2%   | -2%  |      |      |
+| GDP Growth   | 2%   | -2%  | 4%   | 3%   |
 | Inflation    |      |      |      |      |
 
 
