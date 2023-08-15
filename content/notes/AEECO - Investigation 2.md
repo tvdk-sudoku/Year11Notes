@@ -15,7 +15,7 @@ title: Investigation 2
 ### Graphs
 ![[notes/Image - GDP Growth.png]]
 ![[notes/Image - Inflation.png]]
-
+![[notes/Image - Unemployment.png]]
 
 ### Report
 
