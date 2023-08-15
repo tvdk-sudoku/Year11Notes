@@ -5,6 +5,9 @@ title: Investigation 2
 # Part A
 ## Section 1 (2 marks)
 
+| Indicator | 2020 | 2021 | 2022 | 2023 |
+| --------- | ---- | ---- | ---- | ---- |
+|           |      |      |      |      |
 
 
 
