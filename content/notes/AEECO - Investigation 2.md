@@ -12,6 +12,18 @@ title: Investigation 2
 
 
 ## Section 2 (8 marks)
+### Inflation
+- 1 cause and 1 effect
+
+
+
+
+
+
+### Unemployment
+- 1 cause and 1 effect
+
+
 
 
 
