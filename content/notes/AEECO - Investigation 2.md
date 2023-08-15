@@ -12,6 +12,9 @@ title: Investigation 2
 | **Inflation**    | -0.2% | 2%   | 6.1% | 6%    | 
 **NB: Look at the graphs to graph as this table doesn't show all movements**
 
+### Graphs
+![[notes/Pasted image 20230815152305.png]]
+
 ### Report
 
 
