@@ -13,7 +13,9 @@ title: Investigation 2
 **NB: Look at the graphs to graph as this table doesn't show all movements**
 
 ### Graphs
-![[notes/Pasted image 20230815152305.png]]
+![[notes/Image - GDP Growth.png]]
+![[notes/Image - Inflation.png]]
+
 
 ### Report
 
