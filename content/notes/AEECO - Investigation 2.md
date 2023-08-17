@@ -30,7 +30,7 @@ Inflation has been caused by supply shortages and high consumer demand. This inc
 
 
 #### Effect
-The effects of the high inflation in Australia has 
+The high inflation in Australia has increased the price of goods and services significantly, which has increased the costs of living. 
 
 
 
