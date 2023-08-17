@@ -25,7 +25,7 @@ title: Investigation 2
 ## Section 2 (8 marks)
 ### Inflation
 #### Cause
-Inflation has been caused by supply shortages and high consumer demand. This includes the after-affects of covid and the Russian invasion of Ukraine. Consumer demand is high because during the pandemic many people didn't spend as much due to restrictions so when th
+Inflation has been caused by supply shortages and high consumer demand. This includes the after-affects of covid and the Russian invasion of Ukraine. Consumer demand is high because during the pandemic many people didn't spend as much due to restrictions so when the restrictions lifted, people had more money to spend
 
 
 
