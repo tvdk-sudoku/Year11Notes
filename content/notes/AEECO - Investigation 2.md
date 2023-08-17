@@ -54,6 +54,21 @@ Inflation has been caused by supply shortages and high consumer demand. This inc
 
 
 
+## References
+_Inflation_. (2023). Github.io. https://pi-thagoras.github.io/the-chicken-pen/economics/Inflation.html
+
+‌
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Graphs
