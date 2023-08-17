@@ -32,9 +32,14 @@ Brenda Matthews' presentation, "The Last Daughter," during the English conferenc
 
 Brenda's exploration of her dual heritage was particularly compelling. Her quest to bridge the gap between her Aboriginal roots and her white upbringing poignantly captured the struggles and triumphs of reconciling disparate identities. Her message of acknowledging the shadows of the past while actively participating in cultural revival through art and storytelling was both powerful and transformative. Brenda Matthews' presentation resonated as a call for personal growth and collective understanding, urging us to build a more compassionate and united global community.
 
-In a world where narratives often diverge and experiences are varied, Brenda's story served as a unifying thread, weaving together themes of family, identity, and resilience. Through her captivating narrative, she invited us to reflect on our own histories, fostering a deeper connection to the past while motivating us to pave the way for a more inclusive and empathetic future.\
+In a world where narratives often diverge and experiences are varied, Brenda's story served as a unifying thread, weaving together themes of family, identity, and resilience. Through her captivating narrative, she invited us to reflect on our own histories, fostering a deeper connection to the past while motivating us to pave the way for a more inclusive and empathetic future.
 
+## V5
+Brenda Matthews' presentation, "The Last Daughter," at the English conference left an indelible mark on my understanding of the complexities surrounding identity, history, and reconciliation. Through her personal journey, she eloquently conveyed the profound impact of being taken from her family at a young age and the subsequent challenges of reintegration.
 
+Brenda's narrative resonated deeply with its exploration of duality and belonging. Her quest to reconcile her Aboriginal heritage with her experiences within a white family showcased the intricate dance of identity formation. Her emphasis on acknowledging historical injustices and fostering cultural understanding through mediums like art and storytelling highlighted the power of narrative in collective healing.
+
+What stood out was Brenda's poignant call for personal transformation as a catalyst for societal change. Her story underscored the importance of not only recognizing past wrongs but also actively participating in the betterment of our communities. Brenda Matthews' presentation redefined the boundaries of empathy and connection, urging us to embrace our shared humanity while fostering an environment of inclusivity and mutual understanding.
 
 
 
