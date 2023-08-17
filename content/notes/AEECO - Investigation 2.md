@@ -25,7 +25,7 @@ title: Investigation 2
 ## Section 2 (8 marks)
 ### Inflation
 #### Cause
-Inflation has been caused by supply shortages and high consumer demand. This includes the af
+Inflation has been caused by supply shortages and high consumer demand. This includes the after-affects of covid and the Russian invasion of Ukraine. 
 
 
 
