@@ -25,12 +25,12 @@ title: Investigation 2
 ## Section 2 (8 marks)
 ### Inflation
 #### Cause
-Inflation has been caused by supply shortages and high consumer demand. This includes the after-affects of covid and the Russian invasion of Ukraine. Consumer demand is high because during the pandemic many people didn't spend as much due to restrictions so when the restrictions lifted, people had more money to spend which led to increased consumer demand. Also, the Russian invasion of Ukraine has led to grain and energy shortages which has increased the prices of many goods, increasing cost-push inflation.
+Inflation has been caused by supply shortages and high consumer demand. This includes the after-affects of covid and the Russian invasion of Ukraine. Consumer demand is high because during the pandemic many people didn't spend as much due to restrictions so when the restrictions lifted, people had more money to spend which led to increased consumer demand. Also, the Russian invasion of Ukraine has led to grain and energy shortages which has increased the prices of many goods, increasing inflation.
 
 
 
 #### Effect
-The high inflation in Australia has increased the price of goods and services significantly, which has increased the costs of living. The RBA has increased the cash rate significantly to combat the high inflation, which has 
+The high inflation in Australia has increased the price of goods and services significantly, which has increased the costs of living. The RBA has increased the cash rate significantly to combat the high inflation, which has increased interest rates. 
 
 
 
