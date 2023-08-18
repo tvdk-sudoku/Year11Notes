@@ -38,7 +38,7 @@ The high inflation in Australia has increased the price of goods and services si
 
 ### Unemployment
 #### Cause
-
+Covid had a severe impact on the Australian economy and labour market, as lockdowns and social distancing measures reduced economic activity and consumer spending. The unemployment rate rose from 5.1% in February 2020 to 7.5% in July 20201. The Australian Government introduced various economic support packages, such as the JobKeeper Payment wage subsidy scheme, to protect the economy and help workers stay connected with their employers2. However, some sectors, such as tourism, hospitality, and arts, were more affected than others by the pandemic and experienced higher rates of job losses2.
 
 
 
@@ -54,6 +54,7 @@ The high inflation in Australia has increased the price of goods and services si
 
 
 ## References
+Natasha;Chan, C. (2020, December 10). Long-term Unemployment in Australia | Bulletin – December 2020. Reserve Bank of Australia; Reserve Bank of Australia. https://www.rba.gov.au/publications/bulletin/2020/dec/long-term-unemployment-in-australia.html
 _Inflation_. (2023). Github.io. https://pi-thagoras.github.io/the-chicken-pen/economics/Inflation.html
 
 
