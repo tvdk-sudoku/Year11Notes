@@ -30,7 +30,7 @@ Inflation has been caused by supply shortages and high consumer demand. This inc
 
 
 #### Effect
-The high inflation in Australia has increased the price of goods and services significantly, which has increased the costs of living. The RBA has increased the cash rate significantly to combat the high inflation, which has increased interest rates. This also means that consumers have lower 
+The high inflation in Australia has increased the price of goods and services significantly, which has increased the costs of living. The RBA has increased the cash rate significantly to combat the high inflation, which has increased interest rates. This also means that consumers have lower purchasing power as real wages have fallen.  
 
 
 
@@ -38,6 +38,7 @@ The high inflation in Australia has increased the price of goods and services si
 
 ### Unemployment
 #### Cause
+
 
 
 
@@ -55,7 +56,6 @@ The high inflation in Australia has increased the price of goods and services si
 ## References
 _Inflation_. (2023). Github.io. https://pi-thagoras.github.io/the-chicken-pen/economics/Inflation.html
 
-‌
 
 
 
