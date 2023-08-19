@@ -54,7 +54,7 @@ The effects of this unemployment include lower income and living conditions, whi
 
 
 ## References
-- Natasha;Chan, C. (2020, December 10). Long-term Unemployment in Australia | Bulletin – December 2020. Reserve Bank of Australia; Reserve Bank of Australia. https://www.rba.gov.au/publications/bulletin/2020/dec/long-term-unemployment-in-australia.html
+- Natasha; Chan, C. (2020, December 10). Long-term Unemployment in Australia | Bulletin – December 2020. Reserve Bank of Australia; Reserve Bank of Australia. https://www.rba.gov.au/publications/bulletin/2020/dec/long-term-unemployment-in-australia.html
 - Inflation. (2023). Github.io. https://pi-thagoras.github.io/the-chicken-pen/economics/Inflation.html
 - Employment and unemployment. (2023, August 17). Australian Bureau of Statistics; Australian Bureau of Statistics. https://www.abs.gov.au/statistics/labour/employment-and-unemployment
 - Eleanor. (2021, June 17). Underemployment in the Australian Labour Market | Bulletin – June 2021. Reserve Bank of Australia; Reserve Bank of Australia. https://www.rba.gov.au/publications/bulletin/2021/jun/underemployment-in-the-australian-labour-market.html
