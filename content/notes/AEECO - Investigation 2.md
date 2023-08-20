@@ -22,6 +22,10 @@ title: Investigation 2
 
 
 
+
+
+
+
 ## Section 2 (8 marks)
 ### Inflation
 #### Cause
