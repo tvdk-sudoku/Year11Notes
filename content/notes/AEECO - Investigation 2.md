@@ -38,7 +38,7 @@ The high inflation in Australia has increased the price of goods and services si
 
 ### Unemployment
 #### Cause
-Covid had a severe impact on the Australian economy and labour market, as lockdowns and social distancing measures reduced economic activity and consumer spending. The unemployment rate rose from 5.1% in February 2020 to 7.5% in July 20201. The Australian Government introduced various economic support packages, such as the JobKeeper Payment wage subsidy scheme, to protect the economy and help workers stay connected with their employers. However, some sectors, such as tourism, hospitality, and arts, were more affected than others by the pandemic and experienced higher rates of job losses.
+Covid had a severe impact on the Australian economy and labour market, as lockdowns and social distancing measures reduced economic activity and consumer spending. The unemployment rate rose from 5.1% in February 2020 to 7.5% in July 2021. The Australian Government introduced various economic support packages, such as the JobKeeper Payment wage subsidy scheme, to protect the economy and help workers stay connected with their employers. However, some sectors, such as tourism, hospitality, and arts, were more affected than others by the pandemic and experienced higher rates of job losses.
 
 
 
