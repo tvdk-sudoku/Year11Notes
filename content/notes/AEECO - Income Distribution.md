@@ -1,6 +1,5 @@
 ---
 title: Income Distribution
-draft: true
 ---
 
 # Income Distribution
@@ -57,7 +56,10 @@ draft: true
 - Opportunities
 - Other factors e.g. sickness, disabilities and luck
 
-
+### Strategies for Income Distribution
+- Direct taxation: Personal income tax is progressive
+- Transfer payments: Cash support for different groups
+- Indirect government payments: Social transfers increase access to basic services
 
 
 
