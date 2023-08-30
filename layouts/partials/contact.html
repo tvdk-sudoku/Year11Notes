@@ -17,7 +17,7 @@
             {{- end -}}
 		 <br>
 		 {{- range $data.emails | default $.Site.Data.config.emails -}}
-            <li><a href="mailto:{{.email}}">{{.email_name}}</a></li>
+            <li>{{.email_name}}</li>
             {{- end -}}
         </ul>
     </footer>

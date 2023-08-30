@@ -17,6 +17,9 @@ title: Testing
 
 ==highlight==
 
+[The Town](The Town.md)
+
+[a][The Town.md]
 
 
 ### Latex Testing (For Joel)
@@ -59,7 +62,7 @@ $$n^x=ln(n)*n^x$$
 
 
 
-v0.3
+
 <iframe src="https://reapers-notes-v3.pages.dev/notes/IMAGE%20-%20CFI.png" width="1000px" height="1000px"></iframe>
 
 
@@ -68,6 +71,6 @@ v0.3
 
 
 
-VIM Testing
+
 
 
