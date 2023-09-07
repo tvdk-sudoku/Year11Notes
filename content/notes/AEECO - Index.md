@@ -38,7 +38,7 @@ title: Economics Index
 - [[notes/AEECO - Unemployment|Unemployment]]
 - [[notes/AEECO - Business Trade Cycle|Business Trade Cycle]]
 - [[notes/AEECO - Income Distribution|Income Distribution]]
-- 
+- [[notes/AEECO - Government in the Economy|Government in the Economy]]
 
 
 ## Investigations
