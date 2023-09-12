@@ -19,6 +19,7 @@ This is designed to a collection of tutorials, tips and tricks, and other helpfu
 - [[tutorials/Killer|Killer]] - In progress
 - [[tutorials/German Whispers|German Whispers]] - In progress
 - [[tutorials/Arrow|Arrow]] - In progress
+- [[tutorials/Kropki|Kropki]] - In progress
 - More to come!
 
 #### Constraints
