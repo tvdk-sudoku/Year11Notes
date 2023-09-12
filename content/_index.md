@@ -12,7 +12,7 @@ I have ~~started~~ stopped a journal of what we do in class each lesson which ca
 
 I am part of the [[_notes/The Town|Town]]
 
-Occasionally I write articles which can be found [[articles/Home|here]].
+Occasionally I write articles which can be found [[articles/_Home|here]].
 .
 
 
