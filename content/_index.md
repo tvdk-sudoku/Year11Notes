@@ -13,7 +13,10 @@ I have ~~started~~ stopped a journal of what we do in class each lesson which ca
 I am part of the [[_notes/The Town|Town]]
 
 Occasionally I write articles which can be found [[articles/_Home|here]].
-.
+
+I am currently creating a sudoku tutorial series which can be found [[tutorials/_Home|here]]. It covers basic sudoku techniques along with common sudoku variants and resources.
+
+
 
 
 > [!QUOTE] sus  
