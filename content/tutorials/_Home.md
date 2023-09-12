@@ -8,23 +8,24 @@ This is designed to a collection of tutorials, tips and tricks, and other helpfu
 ## Sudoku
 ### General
 - [[tutorials/Overview|Overview]] - In progress
-- [[tutorials/LMD|Logic Masters Germany]] - In progress
-- [[tutorials/Basics|Basics]] - In progress
-- [[tutorials/Advanced Techniques|Advanced Techniques]] - In progress
+- [[tutorials/LMD|Logic Masters Germany]] - To be done
+- [[tutorials/Basics|Basics]] - To be done
+- [[tutorials/Advanced Techniques|Advanced Techniques]] - To be done
 - [[tutorials/Resources|Resources]] - In progress
 
 ### Variant Sudoku
-- [[tutorials/Introduction|Introduction]] - In progress
+- [[tutorials/Introduction|Introduction]] - To be done
 #### Variants
-- [[tutorials/Killer|Killer]] - In progress
-- [[tutorials/German Whispers|German Whispers]] - In progress
-- [[tutorials/Arrow|Arrow]] - In progress
-- [[tutorials/Kropki|Kropki]] - In progress
+- [[tutorials/Killer|Killer]] - To be done
+- [[tutorials/German Whispers|German Whispers]] - To be done
+- [[tutorials/Arrow|Arrow]] - To be done
+- [[tutorials/Kropki|Kropki]] - To be done
+- [[tutorials/Sandwich|Sandwich]] - To be done
 - More to come!
 
 #### Constraints
 ##### Chess Constraints
-- [[tutorials/Knights Move|Knights Move]] - In progress
+- [[tutorials/Knights Move|Knights Move]] - To be done
 - More to come!
 
 ##### Other Constraints
