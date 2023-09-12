@@ -1,15 +1,13 @@
 ---
 title: Resources
-draft: "true"
 ---
 # Resources
 ## Websites
 ### Logic Masters Germany
 Link: https://logic-masters.de/Raetselportal/
+More info can be found [[tutorials/LMD|here]].
 
-
-
-
+Logic Masters Germany is a website for puzzle enthusiasts who enjoy solving and creating logic puzzles.
 
 
 ## YouTube
