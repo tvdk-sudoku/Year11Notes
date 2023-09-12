@@ -1,5 +1,7 @@
 # My New Notes Website v3
-https://reapers-notes-v3.pages.dev/
+Main: https://reaper.toomwn.xyz/  
+Alt domain: https://reapers-notes-v3.pages.dev/  
+(both are the same website)  
   
   
 ## Old Website
