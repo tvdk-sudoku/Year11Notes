@@ -14,7 +14,7 @@ title: Intro to Macroeconomics
 - Overseas
 
 ### Diagram of the CFI
-![[notes/IMAGE - CFI.png]]
+![[_notes/IMAGE - CFI.png]]
 
 ### Households and Firms
 #### Assumptions

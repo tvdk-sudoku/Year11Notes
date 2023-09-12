@@ -10,8 +10,8 @@ title: Investigation 2
 | **GDP Growth**   | 2%    | -2%  | 4%   | 3%    |
 | **Inflation**    | -0.2% | 2%   | 6.1% | 6%    | 
 
-![[notes/IMAGE - GDP.png|300]]![[notes/IMAGE - CPI.png|300]]
-![[notes/IMAGE - Unemployment Rate.png|300]]
+![[_notes/IMAGE - GDP.png|300]]![[_notes/IMAGE - CPI.png|300]]
+![[_notes/IMAGE - Unemployment Rate.png|300]]
 
 ### Report
 The Australian economy is currently entering a contraction in the business trade cycle. GDP growth has started to decrease, with quarterly growth now at 0.2% for the March quarter which is down from the 0.6-0.8% growth from last year, which shows that economic growth is slowing down. As of July 2023, the seasonally adjusted unemployment rate is 3.7% which is higher than last year's average of 3.5%. Inflation is starting to decrease from the high of 7.8% in December 2022, to 6% in June 2023. This shows that Australia's economic growth is slowing down and that the economy is starting to enter the contraction stage of the business trade cycle, which has decreases economic growth and inflation, and increasing unemployment.

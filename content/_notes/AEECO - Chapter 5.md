@@ -97,7 +97,7 @@ Pollution is a classic example of a negative externality.
 
 **Social cost is equal to private costs plus external cost**
 
-![[notes/IMAGE - Negative Externality.png]]
+![[_notes/IMAGE - Negative Externality.png]]
 
 
 ### Positive Externalities
@@ -114,7 +114,7 @@ Pollution is a classic example of a negative externality.
 When externalities exist, the market outcome will not be efficient - the optimal quantity will not be produced and the price charged may not reflect the true value of the resources used in production.
 
 Governments can use market based policies to correct for externalities.
-![[notes/IMAGE - Government Externalities Policies.png|500]]
+![[_notes/IMAGE - Government Externalities Policies.png|500]]
 
 
 Negative externality $\rightarrow$ tax should be placed on the producer to reduce output
