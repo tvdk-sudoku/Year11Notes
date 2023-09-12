@@ -12,8 +12,8 @@ I have ~~started~~ stopped a journal of what we do in class each lesson which ca
 
 I am part of the [[notes/The Town|Town]]
 
-
-
+Occasionally I write articles which can be found [[notes/RANTS|here]].
+.
 
 
 > [!QUOTE] sus  
