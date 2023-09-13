@@ -8,7 +8,7 @@ This is designed to a collection of tutorials, tips and tricks, and other helpfu
 ## Sudoku
 ### General
 - [[tutorials/Overview|Overview]] - In progress
-- [[tutorials/LMD|Logic Masters Germany]] - To be done
+- [[tutorials/LMD|Logic Masters Germany]] - In progress
 - [[tutorials/Basics|Basics]] - To be done
 - [[tutorials/Advanced Techniques|Advanced Techniques]] - To be done
 - [[tutorials/Resources|Resources]] - In progress
