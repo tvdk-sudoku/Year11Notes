@@ -6,8 +6,6 @@ title: Pipes
 This is an easier puzzle that I set. I initially made the puzzle quite difficult, but was forced weaken it a bit to disambiguate it at the end. It is still a very nice puzzle. It uses the following variants: [[tutorials/Arrow|arrow]], [[tutorials/Killer|killer]], [[tutorials/Palindrome|palindrome]] and [[tutorials/Kropki|kropki]].
 
 
-
-
 ## Details
 LMD Difficulty: 2.5/5
 LMD Rating: 94%

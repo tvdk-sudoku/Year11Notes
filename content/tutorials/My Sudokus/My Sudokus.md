@@ -6,7 +6,7 @@ This is a collection of all the sudokus I have currently uploaded on [[tutorials
 
 ## Completed
 - [[tutorials/My Sudokus/Rings|Rings]]
-- [[tutorials/My Sudokus/Pipes|Pipes]] - To be done
+- [[tutorials/My Sudokus/Pipes|Pipes]]
 
 
 ## In Testing
@@ -14,12 +14,16 @@ This is a collection of all the sudokus I have currently uploaded on [[tutorials
 
 
 
-## In progress
-
-
 
 
 ## Abandoned
+
+
+
+
+
+
+## Ideas
 
 
 

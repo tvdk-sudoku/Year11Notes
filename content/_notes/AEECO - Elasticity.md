@@ -45,8 +45,9 @@ $Ed = |\frac{\Delta Q}{Q_{}} * \frac{P_{}}{\Delta P}|$
 TR = P * Q
 | Elasticity | Price      | Revenue      |
 | ---------- | ---------- | ------------ |
-| Elastic    |  $\uparrow$  |  $\downarrow$  |
-| Inelastic  |  $\uparrow$  |  $\uparrow$   |
+| Elastic    | $\uparrow$ | $\downarrow$ |
+| Inelastic  | $\uparrow$ | $\uparrow$ |
+
 
 
 Total revenue = Price * Quantity
