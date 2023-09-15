@@ -3,7 +3,7 @@ title: Rings
 ---
 # Rings
 ## Info
-This is the first sudoku I ever attempted setting. It is a moderately difficult sudoku that combines [[tutorials/Killer|killer]] and [[tutorials/Arrow|arrow]] variants. I tried to make it as geometrically symmetrical and succeeded. The initial break in is difficult but afterwards, it flows nicely.
+This is the first sudoku I ever attempted setting. It is a moderately difficult sudoku that combines [[tutorials/Killer|killer]] and [[tutorials/Arrow|arrow]] (and [[tutorials/Kropki|kropki]]) variants. I tried to make it as geometrically symmetrical and succeeded. The initial break in is difficult but afterwards, it flows nicely.
 
 
 
@@ -22,14 +22,15 @@ Digits along an arrow sum to the digit in the attached circle and may repeat if 
 
 White dots separate cells containing consecutive digits.
 
-## Image
-![[tutorials/sudoku images/Rings2.png]]
-
 
 ## Links
 LMD: https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F42
 CtC: https://tinyurl.com/bdee8p2h
 F-puzzles: https://f-puzzles.com/?id=yuocmvv5
+
+
+## Image
+![[tutorials/Sudoku Images/Rings2.png]]
 
 
 

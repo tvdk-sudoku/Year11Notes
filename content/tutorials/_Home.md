@@ -12,7 +12,7 @@ This is designed to a collection of tutorials, tips and tricks, and other helpfu
 - [[tutorials/Basics|Basics]] - To be done
 - [[tutorials/Advanced Techniques|Advanced Techniques]] - To be done
 - [[tutorials/Resources|Resources]] - In progress
-- [[tutorials/My Sudokus|My Sudokus]] - To be done
+- [[tutorials/My Sudokus/My Sudokus|My Sudokus]] - To be done
 
 ### Variant Sudoku
 - [[tutorials/Introduction|Introduction]] - To be done
@@ -22,6 +22,7 @@ This is designed to a collection of tutorials, tips and tricks, and other helpfu
 - [[tutorials/Arrow|Arrow]] - To be done
 - [[tutorials/Kropki|Kropki]] - To be done
 - [[tutorials/Sandwich|Sandwich]] - To be done
+- [[tutorials/Palindrome|Palindrome]] - To be done
 - More to come!
 
 #### Constraints
