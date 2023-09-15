@@ -43,6 +43,9 @@ title: Economics Index
 
 ## Investigations
 - [[_notes/AEECO - Investigation 1|Investigation 1]]
+- [[_notes/AEECO - Investigation 2|Investigation 2]]
+
+
 
 
 
