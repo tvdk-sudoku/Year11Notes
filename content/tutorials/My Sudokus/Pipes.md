@@ -9,8 +9,8 @@ This is an easier puzzle that I set. I initially made the puzzle quite difficult
 ## Details
 LMD Difficulty: 2.5/5
 LMD Rating: 94%
-LMD Solves: 124
-(Last updated 15/9/23)
+LMD Solves: 135
+(Last updated 16/9/23)
 
 ## Rules
 Normal sudoku rules apply.

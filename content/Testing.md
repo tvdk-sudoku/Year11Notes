@@ -22,25 +22,6 @@ title: Testing
 [a][The Town.md]
 
 
-### Latex Testing (For Joel)
-$$
-\begin{align*}\\
-a &= 3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-&=3\\
-\end{align*}
-$$
-
-
 
 
 ```run-python
@@ -50,6 +31,23 @@ print("Hello, World!")
 ```js
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
