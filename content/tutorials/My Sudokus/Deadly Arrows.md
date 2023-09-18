@@ -1,5 +1,14 @@
 ---
 title: Killer Arrows
+tags:
+  - inTesting
+  - sudoku
+  - variantSudoku
+  - mySudoku
+  - killer
+  - arrow
+  - thermometer
+  - kropki
 ---
 # Deadly Arrows
 ## Info

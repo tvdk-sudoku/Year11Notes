@@ -1,5 +1,13 @@
 ---
 title: Pipes
+tags:
+  - sudoku
+  - variantSudoku
+  - mySudoku
+  - killer
+  - arrow
+  - palindrome
+  - kropki
 ---
 # Pipes
 ## Info

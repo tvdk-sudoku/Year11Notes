@@ -1,5 +1,12 @@
 ---
 title: Rings
+tags:
+  - sudoku
+  - variantSudoku
+  - mySudoku
+  - killer
+  - arrow
+  - kropki
 ---
 # Rings
 ## Info
