@@ -23,6 +23,7 @@ This is designed to a collection of tutorials, tips and tricks, and other helpfu
 - [[tutorials/Kropki|Kropki]] - To be done
 - [[tutorials/Sandwich|Sandwich]] - To be done
 - [[tutorials/Palindrome|Palindrome]] - To be done
+- [[tutorials/Little Killer|Little Killer]] - To be done
 - More to come!
 
 #### Constraints

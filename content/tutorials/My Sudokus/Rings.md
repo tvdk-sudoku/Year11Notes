@@ -21,13 +21,10 @@ LMD Solves: 34
 (Last updated 15/9/23)
 
 ## Rules
-Normal sudoku rules apply.
-
-Digits within a cage must sum to the number in the top-left corner. Digits must not repeat within a Killer cage.
-
-Digits along an arrow sum to the digit in the attached circle and may repeat if allowed by other rules.
-
-White dots separate cells containing consecutive digits.
+- Normal sudoku rules apply.
+- Digits within a cage must sum to the number in the top-left corner. Digits must not repeat within a Killer cage.
+- Digits along an arrow sum to the digit in the attached circle and may repeat if allowed by other rules.
+- White dots separate cells containing consecutive digits.
 
 
 ## Links
