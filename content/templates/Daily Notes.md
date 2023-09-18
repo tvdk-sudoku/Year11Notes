@@ -1,7 +1,7 @@
 ---
 title: "{{date}}"
 ---
-# Day Planner
+
 
 
 

@@ -10,7 +10,7 @@ This is a collection of all the sudokus I have currently uploaded on [[tutorials
 
 
 ## In Testing
-
+- [[tutorials/My Sudokus/Deadly Arrows|Deadly Arrows]]
 
 
 
